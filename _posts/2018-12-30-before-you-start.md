@@ -10,11 +10,14 @@ So, you just bought **Curse Of Strahd** and you want to jump straight into actio
 
 ### Player Options:
 One big thing to consider is how much your players will be invested in the story. **CoS** is a big sandbox adventure and in some points if you're players don't have a *motif* they'll be left wandering in the lands of Barovia without a goal. As a DM you, of course, want to avoid it.
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A good option often suggested is to make one of the players take the role of **Ireena Kolyana** which is basically the damsel in distress of the adventure. She is mostly considered to be a drag for the party and making her a PC is a good way of solving this problem. If you want to use this approach be sure to read her whole backstory and plot-line!  Briefly Strahd wants to marry her and she has to escape first to Vallaki and then to Krezk with the help of the party. Be wary that by doing so you'll probably make one of your players more important than the others!
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Another cool idea is to make one character tied to **Barovia** somehow. Maybe he was born here, or maybe he is a paladin whose goal is to defeat *Strahd*. Maybe his patron is one of the ***Dark Powers***! (More on them later) Who knows? You have unlimited possibilities, be sure to use them. Let the players make the story, don't let them just play it. 
 
 ### Initial Preparations:
 Before you start you want to have some stuff ready. First of all read the *Introduction* and the *First Chapter* of the book. There you will learn a bit about the backstory of the land and about something called the **Tarot Cards**, we'll talk about them in a bit. In the introduction you'll also find some good ideas on how to convey horror to your players, this is supposed to be a scary adventure after all!
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;You don't need to remember everything but you want to get the general feel of the adventure. What is Barovia? What kind of person is Strahd? Etc.
 
 ![Strahd](/images/strahd.jpg)
@@ -35,6 +38,7 @@ It's not explained that well in the book (at least in my opinion) but that's how
 ### Player Death and Dark Powers
 
 I'm one of those DMs that don't like randomly killing players. Even if they deserved it, even if they did something really stupid. Their actions should have consequences, but none of them should be death. And Barovia is a grim and unforgiving place. If you play it as written then many characters will perish.  That's when the ***Dark Powers*** come into play. They are the true enemy of this campaign and they control **Strahd** and the land itself. They don't come into play until late in the game (Amber Temple) but I think it's a missed opportunity.
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Vampyr** is the one that has chosen **Strahd** as his champion so it should have very big interest in the party. But generically speaking every Dark Power will have eyes on every evil (or even powerful) character in the group. If one of your players dies take this opportunity and introduce the beings to your party. Show the dead player an [illusion](https://www.reddit.com/r/DnDBehindTheScreen/comments/4f4t0y/deaths_dark_gifts_resurrection_vignettes_for/)  and let them choose if to take the weird offering. If they do they come back with a Dark Gift as well as a new flaw (those are listed in the *Amber Temple* section of the book). Now not only you prevented a character's death but you also created a memorable moment!
 
 ### End Goal
