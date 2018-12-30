@@ -1,3 +1,8 @@
+---
+layout: page
+title: Curse Of Strahd Guide
+---
+
 # Curse Of Strahd - Don't Lose Yourself In The Horrors
 ## A complete guide for running Curse Of Strahd from scratch
 
