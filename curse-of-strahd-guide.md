@@ -14,4 +14,5 @@ I really hope you like it! For suggestions and questions feel free to write me a
 
  - [Before You Start](https://thevinter.github.io/2018/12/30/before-you-start/)
  - [Death House](https://thevinter.github.io/2018/12/30/surviving-death-house/)
+ - [Village Of Barovia](https://thevinter.github.io/2018/12/30/village-of-barovia/)
  - More to come!
