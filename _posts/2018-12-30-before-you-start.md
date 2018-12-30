@@ -44,5 +44,7 @@ It's a bit early for this but you should start thinking about it, how do you wan
  - Bad ending: One of the players learns about the Dark Gifts and decides that he wants to replace Strahd. In the book is written that Strahd would never allow such a thing but it's really a wasted opportunity. Let your party learn about Vampyr during the campaign and give someone the chance to accept his Gift. Now the goal of that player becomes to defeat Strahd and take his place
  - Neutral enging: This is the ending present in the book. The players defeat Strahd, free some people from Barovia and escape themselves, just to find out that he came back. Welp, I guess it's time to come back for him!
  - Good enging: The true ending. Instead of accepting Vampyr's gift they destroy his vestige thus freeing him into the world. The players are transported into a new demiplane and you can go all crazy with that. Remember that he should be almost as powerful as a god (~CR25) so you'll need to buff the party somehow (and get ready for an epic fight).
------------------
+
+
+
 Now that you fleshed out all of these details you're ready to do a Session Zero with your players and create your characters. Just be sure not to tell them too much about the world so they can discover it by themselves! One of the best parts of the adventure is crossing the gates and realizing there's no way back. 
