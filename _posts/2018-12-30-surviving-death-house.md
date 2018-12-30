@@ -15,7 +15,8 @@ Death House is a house situated in the Village Of Barovia, so before everything 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Don't railroad the story.** Contrarily to what's written in the book don't place the mist around the house. Let your players choose. If they don't show interest in the house then just go ahead with the story (so it's best if you prepare **Barovia** as well).
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If they instead choose to listen to the children then don't show them the picture for god's sake, who would trust some spooky children like those? Also remember, they're powerful illusions. Even if they're touched the character won't see trough the illusion (but allow a Wisdom saving throw!)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+If they instead choose to listen to the children then don't show them the picture for god's sake, who would trust some spooky children like those? Also remember, they're powerful illusions. Even if they're touched the character won't see trough the illusion (but allow a Wisdom saving throw!)
 
 ### Inside the House
 
