@@ -13,5 +13,5 @@ New content will be released periodically and I will tend to keep all of the zon
 I really hope you like it! For suggestions and questions feel free to write me an email or to send me a message on Discord (Vinter#6397)
 
  - [Before You Start](https://thevinter.github.io/2018/12/30/before-you-start/)
- - Death House
+ - [Death House](https://thevinter.github.io/2018/12/30/surviving-death-house/)
  - More to come!
