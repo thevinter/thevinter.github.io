@@ -1,9 +1,9 @@
 ---
 layout: cos
-title: The Village Of Barovia: Approaching and Areas
+title: The Village Of Barovia
 ---
 
-![Header](/images/header_before_you_start.jpg)
+![Header](/images/header_barovia.jpg)
 
 ### Approaching the Village
 Supposed we just started our adventure there's still a long way to go before arriving at the village. Independently from the Adventure Hook chosen your players will now be likely in front of the massive barovian gates. They might be suspicious but wait a second, what are those? Oh, those are wagon trails! People come and go from this place. 
