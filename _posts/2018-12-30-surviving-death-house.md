@@ -12,12 +12,10 @@ Death House is a free adventure given out as a preview for the **Curse Of Strahd
 ### Before You Start
 
 Death House is a house situated in the Village Of Barovia, so before everything else you need to figure out if you want to run it or not. Don't just drop the players in front of the children, make them go trough the initial adventure hook and trough the Gates Of Barovia. Let your party familiarize with the world and show them Rose And Thorn only when it's natural for your players to see them. It's not a good idea to force them to go into the house or listen to the children.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-**Don't railroad the story.** Contrarily to what's written in the book don't place the mist around the house. Let your players choose. If they don't show interest in the house then just go ahead with the story (so it's best if you prepare **Barovia** as well).
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Don't railroad the story.** Contrarily to what's written in the book don't place the mist around the house. Let your players choose. If they don't show interest in the house then just go ahead with the story (so it's best if you prepare **Barovia** as well).
 
-If they instead choose to listen to the children then don't show them the picture for god's sake, who would trust some spooky children like those? Also remember, they're powerful illusions. Even if they're touched the character won't see trough the illusion (but allow a Wisdom saving throw!)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If they instead choose to listen to the children then don't show them the picture for god's sake, who would trust some spooky children like those? Also remember, they're powerful illusions. Even if they're touched the character won't see trough the illusion (but allow a Wisdom saving throw!)
 
 ### Inside the House
 
