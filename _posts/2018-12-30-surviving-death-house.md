@@ -13,8 +13,10 @@ Death House is a free adventure given out as a preview for the **Curse Of Strahd
 
 Death House is a house situated in the Village Of Barovia, so before everything else you need to figure out if you want to run it or not. Don't just drop the players in front of the children, make them go trough the initial adventure hook and trough the Gates Of Barovia. Let your party familiarize with the world and show them Rose And Thorn only when it's natural for your players to see them. It's not a good idea to force them to go into the house or listen to the children.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Don't railroad the story. Contrarily to what's written in the book don't place the mist around the house. Let your players choose. If they don't show interest in the house then just go ahead with the story (so it's best if you prepare Barovia as well).
+
+**Don't railroad the story.** Contrarily to what's written in the book don't place the mist around the house. Let your players choose. If they don't show interest in the house then just go ahead with the story (so it's best if you prepare **Barovia** as well).
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 If they instead choose to listen to the children then don't show them the picture for god's sake, who would trust some spooky children like those? Also remember, they're powerful illusions. Even if they're touched the character won't see trough the illusion (but allow a Wisdom saving throw!)
 
 ### Inside the House
@@ -26,9 +28,9 @@ A lot of good articles has been written about modifying the place so I won't rep
  - [Curse of Strahd Reloaded: A Campaign Guide by /u/DragnaCarta - Death House](https://docs.google.com/document/d/1iBGOoczF8oduZhmnHv297SEQmoxUVJ2mTOHVbfwcCMc/edit#)
 
 I'll just go and make a few points of what I think is "bad" in the original module or could be made better.
-- First of all descriptions. There's lots of empty rooms in the house and you don't want to bore the players; have all the descriptions ready and read them when needed. There's also a [free DM's Guild resource](https://www.dmsguild.com/product/247780/Curse-of-Strahd-Death-House-Script) with some premade descriptions!
+- First of all descriptions. There's lots of **empty rooms** in the house and you don't want to bore the players; have all the descriptions ready and read them when needed. There's also a [free DM's Guild resource](https://www.dmsguild.com/product/247780/Curse-of-Strahd-Death-House-Script) with some premade descriptions!
 - Then combat. Most of the players don't care about low level combat, and it's almost universally considered bad,, especially if it's there just for the sake of being there. Please, don't make the players fight the animated broom or the armor, it will just kill the mood.
-- The story of the house is really interesting. Let the players discover it piece by piece. Don't give it to them all at once.
+- The **story** of the house is really interesting. Let the players discover it piece by piece. Don't give it to them all at once.
 - The specter encounter is really hard. Let the players "win" it without fighting, award intelligent plays.
 - Once the players descend into the basement play some music, some chants. Make the atmosphere feel as overwhelming as possible. They will feel some real relief once they exit the house.
 - Contrarily to what people say I don't think it's necessary to change the end encounter in the house. Sacrificing someone isn't forced on anyone and if the Shambling Moud is actually summoned then the players can simply outrun it. Let your players learn that non every adventure is won by fighting.
