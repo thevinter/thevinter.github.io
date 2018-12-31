@@ -8,7 +8,7 @@ title: Tser Pool Encampment
 ### Areas of the Tser Pool Encampment
 There's nothing much in this area but your players will pass here eventually. The Vistani will be friendly with the characters and invite them to have some food and some drinks around the campfire.
 
-Prepare some Vistani names beforehand, at least one for the Vistana that will greet them. Remember, they're based on **gypsies** so make them look similar.
+Prepare some Vistani names beforehand, at least one for the Vistana that will greet them. Remember, they're based on **Romani** so make them look similar.
 
 They're a nomadic population but aren't planning to move anytime soon, even if the encampment might look precarious. The Vistani will try to sell them the bottles to escape from the mist and if the lie is discovered they will just shrug it off saying *"No one's ever came back to complain. I thought they worked"* 
 
