@@ -16,4 +16,5 @@ I really hope you like it! For suggestions and questions feel free to write me a
  - [Death House](https://thevinter.github.io/2018/12/30/surviving-death-house/)
  - [Village Of Barovia](https://thevinter.github.io/2018/12/30/village-of-barovia/)
  - [Tser Poll Encampment](https://thevinter.github.io/2018/12/31/tser-pool-encampment/) 
+ - [Old Bonegrider](https://thevinter.github.io/2018/12/30/village-of-barovia/)
  - More to come!
