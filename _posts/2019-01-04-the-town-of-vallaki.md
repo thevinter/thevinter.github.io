@@ -19,7 +19,7 @@ Those two NPCs will be important for the special event *"Feast of St. Andral"* a
 Urwin Martikov is a wereraven and a high-ranking member of the Keepers of the Feather, a secret society of wereravens that opposes Strahd. The members of the society have a hideout in the **Blue Water Inn** and they're friendly to the characters.  Urwin Martikov is fierce and likes to fight. He is the son of Davian Martikov, the owner of the winery "The Wizard Of The Wines" (but he won't mention that to the players since he and his father are not on good terms). This is why he asks the players to check why the winery isn't delivering the wine anymore instead of checking by himself.
 
 ### Szoldar Szoldarovich and Yevgeni Krushkin
-Those are two minor characters that can be present at the Inn. They're wolf hunters and know the layout of the zone. They can accompany the players for a fee but they won't go out at night. 
+Those are two minor characters that can be present at the Inn. They're wolf hunters and *know the layout of the zone*. They can accompany the players for a fee but they won't go out at night. 
 
 ### Wachter Brothers (Nikolai and Karl)
 
@@ -31,13 +31,13 @@ Rictavio is a vampire hunter in disguise. He has a cunning tongue, likes to be s
 
 ### Baron Vargas Vallakovich
 
-The baron is the current ruler of the city. His catchprase is "All will be well!" and he likes repeating it over and over. He likes organizing festivals in the city and he thinks (wrongly) that those are what keeps Strahd away from Vallaki. He doesn't like those who oppose him and if someone insults his town he'll be sure to throw them in jail for a "reformation". He has two mastiffs that follow him everywhere. He will ask the players to keep an eye on Fiona Wachter since he thinks she is trying to execute a plan to kill him and become the leader of Vallaki. 
+The baron is the current *ruler of the city*. His catchprase is "All will be well!" and he likes repeating it over and over. He likes organizing festivals in the city and he thinks (wrongly) that those are what keeps Strahd away from Vallaki. He doesn't like those who oppose him and if someone insults his town he'll be sure to throw them in jail for a "reformation". He has two mastiffs that follow him everywhere. He will ask the players to keep an eye on Fiona Wachter since he thinks she is trying to execute a plan to kill him and become the leader of Vallaki. 
 
 ### Lydia Petrovna
 Lydia is Varags' wife. She hasn't the sharpest mind and laughs at pretty much every comment or question. She won't delve into political matters and will try her best to avoid such questions while redirecting them at Vargas. Her only interest is making tea and parties while talking with people that tolerate her just because of the free food.
 
 ### Victor Vallakovich
-Victor is Vargas' son. He's teaching himself magic and he is responsible for the disappearance of one of the memers of the baron's household staff.
+Victor is Vargas' son. He's teaching himself magic and he is responsible for the disappearance of one of the members of the baron's household staff.
 
 ### Izek Strazni
 
