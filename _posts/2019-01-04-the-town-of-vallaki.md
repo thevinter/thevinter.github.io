@@ -13,7 +13,7 @@ Also I suggest reading "[Curse of Strahd Reloaded: A Campaign Guide by /u/Dragna
 ## Dramatis Personae (in order of appearance) 
 
 ### Father Lucian Petrovich and Milivoj
-Those two NPCs will be important for the special event *"Feastof St. Andral"* and your party will meet them, especially if they've been prompted to go to th Vallaki's church. Lucian is a religous but intelligent man, Milivoj is a hotheaded teenager that wants to protect his siblings. More details will be discussed in ***"The Feast Of St. Andral"*** section.
+Those two NPCs will be important for the special event *"Feast of St. Andral"* and your party will meet them, especially if they've been prompted to go to th Vallaki's church. Lucian is a religous but intelligent man, Milivoj is a hotheaded teenager that wants to protect his siblings. More details will be discussed in ***"The Feast Of St. Andral"*** section.
 
 ### Urwin Martikov and the Keepers of the Feather
 Urwin Martikov is a wereraven and a high-ranking member of the Keepers of the Feather, a secret society of wereravens that opposes Strahd. The members of the society have a hideout in the **Blue Water Inn** and they're friendly to the characters.  Urwin Martikov is fierce and likes to fight. He is the son of Davian Martikov, the owner of the winery "The Wizard Of The Wines" (but he won't mention that to the players since he and his father are not on good terms). This is why he asks the players to check why the winery isn't delivering the wine anymore instead of checking by himself.
