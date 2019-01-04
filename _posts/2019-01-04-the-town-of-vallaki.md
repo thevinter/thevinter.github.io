@@ -29,11 +29,11 @@ The two brothers are sons of **Fiona Wachter** (more on her later) and they're o
 
 Rictavio is a vampire hunter in disguise. He has a cunning tongue, likes to be sarcastic and doesn't trust people easily. He lives in a wagon on the west side of the town. Get some stories ready for him as he likes to tell them to entertain people (some of them can be found in his journal). He is at the Inn to gather information on the Keepers of the Feather and about the Vistani.
 
-#### Baron Vargas Vallakovich
+### Baron Vargas Vallakovich
 
 The baron is the current ruler of the city. His catchprase is "All will be well!" and he likes repeating it over and over. He likes organizing festivals in the city and he thinks (wrongly) that those are what keeps Strahd away from Vallaki. He doesn't like those who oppose him and if someone insults his town he'll be sure to throw them in jail for a "reformation". He has two mastiffs that follow him everywhere. He will ask the players to keep an eye on Fiona Wachter since he thinks she is trying to execute a plan to kill him and become the leader of Vallaki. 
 
-#### Lydia Petrovna
+### Lydia Petrovna
 Lydia is Varags' wife. She hasn't the sharpest mind and laughs at pretty much every comment or question. She won't delve into political matters and will try her best to avoid such questions while redirecting them at Vargas. Her only interest is making tea and parties while talking with people that tolerate her just because of the free food.
 
 ### Victor Vallakovich
@@ -131,7 +131,7 @@ The stockyard is just a general store, and outside of it there's Rictavio's Wago
 
 ### Coffin Maker's Shop
 
-The shop is closed and Henrik won't open it to the players since he fears being discovered. He agreed to keep some vampire spawns in his shop in exchange for wealth. If the players knock on the door he will simply yell "It's closed, come back tomorrow". 
+The shop is closed and Henrik won't open it to the players since he fears being discovered. He agreed to keep some vampire spawns in his shop in exchange for wealth. If the players knock on the door he will simply yell *"It's closed, come back tomorrow"*. 
 
 If the characters decide to break in anyways he won't make resistance and will tell them everything he knows.
 
@@ -154,9 +154,9 @@ There are men and women trapped in cages in the square, for "malicious unhappine
 
 The camp is outside of Vallaki and is the home of both the Vistani and the Dusk Elves. When the party arrives most of the inhabitants of the camp are out searching for Annabelle but they can still talk with Luvash or Arrigal. 
 
-The Vistani will ask them to find Annabelle and to discover what happened at the Wizards Of the Wines winery. 
+The Vistani will ask them to find Annabelle and to discover what happened at the *Wizards Of the Wines Winery.*
 
-If they talk to Kazimir and the Dusk Elves they can learn more about Barovia and Strahd, but if they ask about Strahd too much the Vistani will start to become a bit hostile to them. 
+If they talk to **Kazimir** and the Dusk Elves they can learn more about Barovia and Strahd, but if they ask about Strahd too much the Vistani will start to become a bit hostile to them. 
 
 ## Timeline
 
@@ -181,7 +181,7 @@ The main quests of Vallaki are the following:
 
 ## St.Andral's Feast
 
-This is the main  that will happen in Vallaki so you want to be prepared.  The players can prevent it by recovering the bones and bringing them back to the church or by destroying the vampire spawns in the Coffin Maker's shop. 
+This is the **main event** that will happen in Vallaki so you want to be prepared.  The players can prevent it by recovering the bones and bringing them back to the church or by destroying the vampire spawns in the Coffin Maker's shop. 
 
 Millivoj has stolen the bones and brought them to Henrik in return for money. Henrik then took the bones and hid them in his wardrobe.
 
@@ -191,7 +191,7 @@ The baron's wife gets killed this night, and if the characters don't intervene s
 
 After creating some chaos all the vampires will go to the church where Strahd will be waiting. After everyone's there he will kill Father Lucian. 
 
-If the party comes to the church with Ireena, Strahd will do his best to take her with him. 
+**If the party comes to the church with Ireena, Strahd will do his best to take her with him.**
 
 ### The Aftermath
 
@@ -216,7 +216,7 @@ Once the feast is over, if the players had any role in it Strahd will want to in
 
 ## General Overview and Final Considerations
 
-Vallaki is a long chapter and a very important one. Don't be afraid of running it and try not to show everything at once to your players. It's better to leave something out rather than filling your party with information they will forget shortly after. 
+Vallaki is a long chapter and a very important one. Don't be afraid of running it and **try not to show everything at once to your players**. It's better to leave something out rather than filling your party with information they will forget shortly after. 
 
 I found out that some NPCs, like Rictavio or the Wachter Brothers, aren't really important if your PCs don't have any ties with them so I usually leave them out or mention them briefly. 
 
@@ -224,15 +224,15 @@ Your party won't see everything in Vallaki and that's ok. One of my groups didn'
 
 Try to have one major event and a couple of minor ones each day, not more than that. Don't introduce both the Baron and Lady Fiona on the same day for example. 
 
-Don't railroad the players and let them do whatever they want. Just remember that Vallaki is a living place and events happens even if the players doesn't know about them. You could of course postpone some of the crucial ones (like the feast) if the players are not in town, but I prefer to let the story go as planned.
+**Don't railroad the players** and let them do whatever they want. Just remember that Vallaki is a living place and events happens even if the players doesn't know about them. You could of course postpone some of the crucial ones (like the feast) if the players are not in town, but I prefer to let the story go as planned.
 
 This is how a Vallaki session might go:
 * The players arrive from the East Gate and check the Stockyard and Rictavio's Wagon. 
 * Then they go to the Blue Water Inn and get some quests and learn a bit more about the city
 * In the evening they're invited to dinner by the Baron and learn about lady Fiona
 * On the next day they have some spare time so they explore the city 
-* Or they just go straight to Wachterhouse
-* If they didn't go to Wachterhouse then they recieve an invitation from Lady Fiona itself and they get the quest to help her
+* Or they just go straight to Wachterhaus
+* If they didn't go to Wachterhaus then they recieve an invitation from Lady Fiona itself and they get the quest to help her
 * On the third day they're free to explore and do whatever they want. They might learn about the bones if they haven't yet, they might check the Vistani camp and try to save Annabelle or they might go to the Winery
 * At night, if not prevented, the fast happens 
 * Then the story branches depending on your player's actions
