@@ -152,7 +152,7 @@ There are men and women trapped in cages in the square, for "malicious unhappine
 
 ### Vistani Camp
 
-The camp is outside of Vallaki and is the home of both the Vistani and the Dusk Elves. When the party arrives most of the inhabitants of the camp are out searching for Annabelle but they can still talk with Luvash or Arrigal. 
+The camp is outside of Vallaki and is the home of both the Vistani and the Dusk Elves. When the party arrives most of the inhabitants of the camp are out **searching for Annabelle** but your players can still talk with Luvash or Arrigal. 
 
 The Vistani will ask them to find Annabelle and to discover what happened at the *Wizards Of the Wines Winery.*
 
