@@ -12,20 +12,20 @@ Also I suggest reading "[Curse of Strahd Reloaded: A Campaign Guide by /u/Dragna
 
 ## Dramatis Personae (in order of appearance) 
 
-#### Father Lucian Petrovich and Milivoj
+### Father Lucian Petrovich and Milivoj
 Those two NPCs will be important for the special event *"Feastof St. Andral"* and your party will meet them, especially if they've been prompted to go to th Vallaki's church. Lucian is a religous but intelligent man, Milivoj is a hotheaded teenager that wants to protect his siblings. More details will be discussed in ***"The Feast Of St. Andral"*** section.
 
-#### Urwin Martikov and the Keepers of the Feather
+### Urwin Martikov and the Keepers of the Feather
 Urwin Martikov is a wereraven and a high-ranking member of the Keepers of the Feather, a secret society of wereravens that opposes Strahd. The members of the society have a hideout in the **Blue Water Inn** and they're friendly to the characters.  Urwin Martikov is fierce and likes to fight. He is the son of Davian Martikov, the owner of the winery "The Wizard Of The Wines" (but he won't mention that to the players since he and his father are not on good terms). This is why he asks the players to check why the winery isn't delivering the wine anymore instead of checking by himself.
 
-#### Szoldar Szoldarovich and Yevgeni Krushkin
+### Szoldar Szoldarovich and Yevgeni Krushkin
 Those are two minor characters that can be present at the Inn. They're wolf hunters and know the layout of the zone. They can accompany the players for a fee but they won't go out at night. 
 
-#### Wachter Brothers (Nikolai and Karl)
+### Wachter Brothers (Nikolai and Karl)
 
 The two brothers are sons of **Fiona Wachter** (more on her later) and they're of noble upbringing. Always drunk and always looking for trouble they could hint to the players about the **Tyger, Tyger** event. 
 
-#### Rictavio
+### Rictavio
 
 Rictavio is a vampire hunter in disguise. He has a cunning tongue, likes to be sarcastic and doesn't trust people easily. He lives in a wagon on the west side of the town. Get some stories ready for him as he likes to tell them to entertain people (some of them can be found in his journal). He is at the Inn to gather information on the Keepers of the Feather and about the Vistani.
 
@@ -36,10 +36,10 @@ The baron is the current ruler of the city. His catchprase is "All will be well!
 #### Lydia Petrovna
 Lydia is Varags' wife. She hasn't the sharpest mind and laughs at pretty much every comment or question. She won't delve into political matters and will try her best to avoid such questions while redirecting them at Vargas. Her only interest is making tea and parties while talking with people that tolerate her just because of the free food.
 
-#### Victor Vallakovich
+### Victor Vallakovich
 Victor is Vargas' son. He's teaching himself magic and he is responsible for the disappearance of one of the memers of the baron's household staff.
 
-#### Izek Strazni
+### Izek Strazni
 
 Izek is the baron's henchman. He is the brother of Ireena Kolyana and they've been separated when they were young so no one of them knows that. He is a sociopath and a killer and he also had grown a fiendish hand thanks to the Dark Powers. He collects dolls made by Blinksy in the shape of Ireena because he keeps dreaming about her.
 
@@ -47,7 +47,7 @@ If Izek sees Ireena he will do everything he can to reunite with her. Here you b
 
 One cool idea is to make Izek the brother of someone's character, basically replacing him with Ireena.
 
-#### Lady Fiona Wachter
+### Lady Fiona Wachter
 
 Fiona is a Vallaki's noble. She is loyal to Strahd and seeks to supplant Baron Vallakovich as the town burgomaster. She is mostly evil but smart and she will try to use the party if she sees they can be an advantage to her plan. She tried to marry her daughter Stella to Victor, but she drove her mad, probably using magic.  
 
@@ -56,27 +56,27 @@ Fiona started a cult in Vallaki and she plans to use that cult to seize the town
 Lady Wachter will invite the party to dinner and will openly tell them about her plan, leaving out some of the details like the cult. 
 
 
-#### Henrik van der Voort
+### Henrik van der Voort
 
 Henrik is the town's carpenter and he makes coffins for a living. He is lonely and doesn't like visitors. His shop is currently the home of some vampire spawns that are part of the "Feast Of St. Andral" event.
 
-#### Gadof Blinsky
+### Gadof Blinsky
 
 Blinsky makes toys for everyone  in Barovia, and your players have probably already found some of his toys. He is creepy and a bit crazy and he does't recognize the fact that his toys aren't exactly the most appropriate, he rather finds them very amusing. He also has a pet monkey, given to him by Rictavio in exchange for a Vistana doll. 
 
 Lately he has been doing a lot of Ireena dolls for Izek. 
 
-#### Kasimir Velikov
+### Kasimir Velikov
 
 The leader of the dusk elves is one of the greatest sources of information for the party. He will happily tell them all that he knows. His most valued information is the know-how of Strahd's power so he can direct the players to the Amber Temple.
 
 He also has been having dreams regarding his dead sister so he will accompany the characters to the temple if he can, and he will insist on that. 
 
-#### Arrigal
+### Arrigal
 
 This Vistana is a known face for the party if you used the "Plea For Help" adventure hook. If questioned he will tell them that he was just a messenger and didn't know anything about the contents of the letter. He is loyal to Strahd and will do his best to stop the characters if he learns they're scheming something dangerous.
 
-#### Luvash
+### Luvash
 
 Luvash is violent but he has nothing against the players. He spends most of the time drunk but now that he has little to no wine to drink he is unhappy. Also his daughter has vanished so almost every Vistana in the camp is searching for her. Little does he know that Annabelle has been kidnapped by Bruto, a drunkard, and has been brought to the middle of lake Zarovich to be drowned. 
 
@@ -84,11 +84,11 @@ Luvash is violent but he has nothing against the players. He spends most of the 
 
 ## Locations Overview
 
-#### St. Andral's Church
+### St. Andral's Church
 
 This is an important place for the **"St.Andral's Feast"** event. If the players come here Father Lucian will ask them to find the vanished bones of St.Andral. If the bones are not found the vampires will attack the church in a couple of days. 
 
-#### Blue Water Inn
+### Blue Water Inn
 
 The inn is full of people and you don't have to run them all, at least not all at once. Introduce few NPCs at a time, this will also help the inn feel alive.
 
@@ -96,7 +96,7 @@ Urwin Martikov will ask the players to get some wine at the winery and he will t
 
 Most of the groups won't explore the inn but remember that some of the rooms are locked and contain valuable information, and also there's a secret attic.
 
-#### Burgomaster's Mansion
+### Burgomaster's Mansion
 If **Ireena** is with the party she will suggest they go and see the Baron of Vallaki. His mansion is busy most of the day. If the party ask to see the Baron they will be invited inside. 
 
 The party will be "asked" to participate in the next festival and maybe even prompted to help. 
@@ -111,7 +111,7 @@ If the party decides to investigate the mansion (a hard task given that it's ful
 
 Viktor is a bit crazy and he is trying to learn magic (with little luck). He especially tried to create a teleportation circle, but it doesn't work. He used some servants to test it, and they have been torn apart in front of his very own eyes. That is the reason behind the servant's disappearance.
 
-#### Wachterhaus
+### Wachterhaus
 
 This is the home of Lady Fiona. She will probably invite the players to lunch (NPCs love inviting people to eat in barovia) once they make themselves known in Vallaki. 
 
@@ -126,16 +126,16 @@ If the party explore Wacherhaus they will encounter lots of things, but most of 
 * The Cult Headquarters themselves, full of cultists 
 * The dead husband of Fiona, under the effect of the gentle repose spell
 
-#### Arasek Stockyard and Rictavio's Vagon
+### Arasek Stockyard and Rictavio's Vagon
 The stockyard is just a general store, and outside of it there's Rictavio's Wagon. The wagon is trapped but if the characters stick long enough they could hear some roars coming from inside. Those come from a tiger Rictavio keeps locked in. He is planning to unleash it to kill the Vistani. 
 
-#### Coffin Maker's Shop
+### Coffin Maker's Shop
 
 The shop is closed and Henrik won't open it to the players since he fears being discovered. He agreed to keep some vampire spawns in his shop in exchange for wealth. If the players knock on the door he will simply yell "It's closed, come back tomorrow". 
 
 If the characters decide to break in anyways he won't make resistance and will tell them everything he knows.
 
-#### Blinsky Toys
+### Blinsky Toys
 
 The toy shop is full of strange toys, and among them  the party can find some dolls that resemble Ireena (or one of the players if you made him Izek's brother)
 
@@ -143,14 +143,14 @@ Blinksy will try to sell some toys to the party. He also won't hide anything fro
 
 He also has a quest for the party, to go to Strahd's castle and recover a clockwork man hidden somewhere in it. 
 
-#### Town Square
+### Town Square
 
 The town square is the main place where festivities are held. One has just been ended and there are already ongoing preparations for the next one. 
 
 There are men and women trapped in cages in the square, for "malicious unhappiness". Izek carries the keys and freeing them is a crime.
 
 
-#### Vistani Camp
+### Vistani Camp
 
 The camp is outside of Vallaki and is the home of both the Vistani and the Dusk Elves. When the party arrives most of the inhabitants of the camp are out searching for Annabelle but they can still talk with Luvash or Arrigal. 
 
@@ -193,7 +193,7 @@ After creating some chaos all the vampires will go to the church where Strahd wi
 
 If the party comes to the church with Ireena, Strahd will do his best to take her with him. 
 
-#### The Aftermath
+### The Aftermath
 
 The attack demoralizes the town. The townsfolk will burn the baron's mansion and will drag Vargas and Izek to the town square. There Fiona will be wating to take this opportunity and hang the baron while delivering a speech for the people. 
 
@@ -201,17 +201,17 @@ Fiona becomes the new burgomaster and the city becomes heavily guarded and milit
 
 ## Other Events
 
-#### Festival of the Blazing Sun
+### Festival of the Blazing Sun
 If the feast is prevented then the Baron will hold the festival. During the festival Lady Fiona will try to start a revolt and seize control of the town. Big crowds of people will start running on the streets and Vallaki will become a dangerous place for the PCs. 
 
 The outcome of the rebellion depends on whom the characters side with. If they decide to do nothing instead then it's your choice depending on how you want the story to go.
 
-#### Tyger, Tyger
+### Tyger, Tyger
 I found this event to be unnecessary (especially if Rictavio is not the party's ally) and confusing but you might want to run it anywas.
 
 Basically Nikolai and Karl  will free Rictavio's tiger that will roam on he streets causing fear and confusion. Once the tiger is captured the Baron will learn its provenience and will exile Rictavio from the city.
 
-#### Strahd's Invitation
+### Strahd's Invitation
 Once the feast is over, if the players had any role in it Strahd will want to invite the players for dinner. He will ask Ernst Larnak (Fiona's servant) to deliver a letter to the party. In it there will be an invitation to Castle Ravenloft. For more information check [Elven Tower's Strahd Invitation](https://www.elventower.com/archives/1351), or my guide once it's released.
 
 ## General Overview and Final Considerations
