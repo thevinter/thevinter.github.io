@@ -43,7 +43,7 @@ Victor is Vargas' son. He's teaching himself magic and he is responsible for the
 
 Izek is the baron's henchman. He is the brother of Ireena Kolyana and they've been separated when they were young so no one of them knows that. He is a sociopath and a killer and he also had grown a fiendish hand thanks to the Dark Powers. He collects dolls made by Blinksy in the shape of Ireena because he keeps dreaming about her.
 
-If Izek sees Ireena he will do everything he can to reunite with her. Here you basically have two options, the first one is to play an evil Izek: he will try to capture Ireena and lock her up, while killing everyone that opposes him. The second one is the good Izek: once he learns that Ireena is hunted by Strahd he will do his best to protect her, joining the party and sacrificing his life for her if needed. 
+If Izek sees Ireena *he will do everything he can to reunite with her*. Here you basically have two options, the first one is to play an evil Izek: he will try to capture Ireena and lock her up, while killing everyone that opposes him. The second one is the good Izek: once he learns that Ireena is hunted by Strahd he will do his best to protect her, joining the party and sacrificing his life for her if needed. 
 
 One cool idea is to make Izek the brother of someone's character, basically replacing him with Ireena.
 
@@ -51,14 +51,14 @@ One cool idea is to make Izek the brother of someone's character, basically repl
 
 Fiona is a Vallaki's noble. She is loyal to Strahd and seeks to supplant Baron Vallakovich as the town burgomaster. She is mostly evil but smart and she will try to use the party if she sees they can be an advantage to her plan. She tried to marry her daughter Stella to Victor, but she drove her mad, probably using magic.  
 
-Fiona started a cult in Vallaki and she plans to use that cult to seize the town by force. She also sleeps with the corpse of her husband she keeps intact with the help of magic. 
+Fiona started a *cult* in Vallaki and she plans to use that cult to seize the town by force. She also sleeps with the corpse of her husband she keeps intact with the help of magic. 
 
-Lady Wachter will invite the party to dinner and will openly tell them about her plan, leaving out some of the details like the cult. 
+Lady Wachter will *invite the party* for lunch and will openly tell them about her plan, purposefully leaving out some of the details (like the cult). 
 
 
 ### Henrik van der Voort
 
-Henrik is the town's carpenter and he makes coffins for a living. He is lonely and doesn't like visitors. His shop is currently the home of some vampire spawns that are part of the "Feast Of St. Andral" event.
+Henrik is the town's carpenter and he makes coffins for a living. He is lonely and doesn't like visitors. His shop is currently the home of some **vampire spawns** that are part of the *"Feast Of St. Andral"* event.
 
 ### Gadof Blinsky
 
@@ -68,13 +68,13 @@ Lately he has been doing a lot of Ireena dolls for Izek.
 
 ### Kasimir Velikov
 
-The leader of the dusk elves is one of the greatest sources of information for the party. He will happily tell them all that he knows. His most valued information is the know-how of Strahd's power so he can direct the players to the Amber Temple.
+The leader of the dusk elves is one of the greatest **sources of information** for the party. He will happily tell them all that he knows. His most valued information is the know-how of Strahd's power so he can direct the players to the Amber Temple.
 
 He also has been having dreams regarding his dead sister so he will accompany the characters to the temple if he can, and he will insist on that. 
 
 ### Arrigal
 
-This Vistana is a known face for the party if you used the "Plea For Help" adventure hook. If questioned he will tell them that he was just a messenger and didn't know anything about the contents of the letter. He is loyal to Strahd and will do his best to stop the characters if he learns they're scheming something dangerous.
+This Vistana is a known face for the party if you used the "Plea For Help" adventure hook. If questioned he will tell them that he was just a messenger and didn't know anything about the contents of the letter. He is **loyal to Strahd** and will do his best to stop the characters if he learns they're scheming something dangerous.
 
 ### Luvash
 
@@ -92,7 +92,7 @@ This is an important place for the **"St.Andral's Feast"** event. If the players
 
 The inn is full of people and you don't have to run them all, at least not all at once. Introduce few NPCs at a time, this will also help the inn feel alive.
 
-Urwin Martikov will ask the players to get some wine at the winery and he will tell them a bit about Vallaki. 
+Urwin Martikov will ask the players to **get some wine** from the winery and he will tell them a bit about Vallaki. 
 
 Most of the groups won't explore the inn but remember that some of the rooms are locked and contain valuable information, and also there's a secret attic.
 
@@ -101,11 +101,11 @@ If **Ireena** is with the party she will suggest they go and see the Baron of Va
 
 The party will be "asked" to participate in the next festival and maybe even prompted to help. 
 
-Vargas will also tell them about Fiona Wachter and request some help in that regard. He wants the party to spy on her and report on any suspicious activity on her behalf.
+Vargas will also tell them about Fiona Wachter and request some help in that regard. He wants the party to **spy on her** and report on any suspicious activity on her behalf.
 
 He will also mention the  disappearance of some of his staff, as he thinks this is connected to Fiona.
 
-Also, the baron might propose a marriage between Ireena and his son Viktor
+Also, the baron might propose a **marriage** between Ireena and his son Viktor
 
 If the party decides to investigate the mansion (a hard task given that it's full of people and guards) they can also learn about Izek, about the "reformation" the baron likes to do on people and about the secrets of the baron's son Viktor. 
 
@@ -113,16 +113,16 @@ Viktor is a bit crazy and he is trying to learn magic (with little luck). He esp
 
 ### Wachterhaus
 
-This is the home of Lady Fiona. She will probably invite the players to lunch (NPCs love inviting people to eat in barovia) once they make themselves known in Vallaki. 
+This is the home of **Lady Fiona**. She will probably invite the players to lunch (NPCs love inviting people to eat in barovia) once they make themselves known in Vallaki. 
 
 It's a good idea to invite the party the next day after they've talked with the Baron so they have to make a choice on whom to side with. Vargas is mentally unstable and violent, but Fiona is Strahd's ally. 
 
-Once the party has been invited she will serve them a fine meal while talking about her plans and about the fact that Vargas isn't capapble of ruling over Vallaki. She will then ask the party to help her overthrow him.
+Once the party has been invited she will serve them a fine meal while talking about her plans and about the fact that Vargas isn't capapble of ruling over Vallaki. She will then ask the party to **help her overthrow him**.
 
 If the party explore Wacherhaus they will encounter lots of things, but most of them will be hidden:
 
 * Stella's room, which is locked, holds Stella in it. She is a prisoner of both the room and her own madness.
-* Some clues about the cult Fiona has created
+* Some clues about the *cult* Fiona has created
 * The Cult Headquarters themselves, full of cultists 
 * The dead husband of Fiona, under the effect of the gentle repose spell
 
@@ -137,15 +137,15 @@ If the characters decide to break in anyways he won't make resistance and will t
 
 ### Blinsky Toys
 
-The toy shop is full of strange toys, and among them  the party can find some dolls that resemble Ireena (or one of the players if you made him Izek's brother)
+The toy shop is full of strange toys, and among them  the party can find some **dolls that resemble Ireena** (or one of the players if you made him Izek's brother)
 
 Blinksy will try to sell some toys to the party. He also won't hide anything from them and will promptly tell them everything he knows. 
 
-He also has a quest for the party, to go to Strahd's castle and recover a clockwork man hidden somewhere in it. 
+He also has a quest for the party: to go to Strahd's castle and recover a clockwork man hidden somewhere in it. 
 
 ### Town Square
 
-The town square is the main place where festivities are held. One has just been ended and there are already ongoing preparations for the next one. 
+The town square is the main place where festivities are held. One has just ended and there are already ongoing preparations for the next one. 
 
 There are men and women trapped in cages in the square, for "malicious unhappiness". Izek carries the keys and freeing them is a crime.
 
