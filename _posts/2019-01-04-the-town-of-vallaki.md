@@ -34,7 +34,7 @@ Rictavio is a vampire hunter in disguise. He has a cunning tongue, likes to be s
 The baron is the current *ruler of the city*. His catchprase is "All will be well!" and he likes repeating it over and over. He likes organizing festivals in the city and he thinks (wrongly) that those are what keeps Strahd away from Vallaki. He doesn't like those who oppose him and if someone insults his town he'll be sure to throw them in jail for a "reformation". He has two mastiffs that follow him everywhere. He will ask the players to keep an eye on Fiona Wachter since he thinks she is trying to execute a plan to kill him and become the leader of Vallaki. 
 
 ### Lydia Petrovna
-Lydia is Varags' wife. She hasn't the sharpest mind and laughs at pretty much every comment or question. She won't delve into political matters and will try her best to avoid such questions while redirecting them at Vargas. Her only interest is making tea and parties while talking with people that tolerate her just because of the free food.
+Lydia is Vargas' wife. She hasn't the sharpest mind and laughs at pretty much every comment or question. She won't delve into political matters and will try her best to avoid such questions while redirecting them at Vargas. Her only interest is making tea and parties while talking with people that tolerate her just because of the free food.
 
 ### Victor Vallakovich
 Victor is Vargas' son. He's teaching himself magic and he is responsible for the disappearance of one of the members of the baron's household staff.
