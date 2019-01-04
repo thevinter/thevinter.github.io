@@ -234,5 +234,5 @@ This is how a Vallaki session might go:
 * Or they just go straight to Wachterhaus
 * If they didn't go to Wachterhaus then they recieve an invitation from Lady Fiona itself and they get the quest to help her
 * On the third day they're free to explore and do whatever they want. They might learn about the bones if they haven't yet, they might check the Vistani camp and try to save Annabelle or they might go to the Winery
-* At night, if not prevented, the fast happens 
+* At night, if not prevented, the feast happens 
 * Then the story branches depending on your player's actions
