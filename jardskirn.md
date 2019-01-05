@@ -13,7 +13,7 @@ Existing worlds are great and all, but they share one common element, a rich his
 
 Other than that there's also the *"low-fantasy"* bit. I think that a rich magic presence in a world prevents the players for thinking rationally and evaluating each action in an optimal way. There will be always some "magical outcome" they didn't consider because, well, they don't really know the magical rules of the world instead of, let's say, the physical ones. In the real world if you drop a big stone fall you can almost be certain that it will fall, this doesn't happen in most of the existing fantasy worlds.
 
-It's a *"low-fantasy"* setting and not a *"magic-less"* one because in my opinion magic is a great source of wonder (if used properly). The rare but powerful Mask of the Skull or the elusive Orb of Storms are present in this world, but it's a once in a lifetime opportunity to find such an item.
+It's a *"low-fantasy"* setting and not a *"magic-less"* one because in my opinion magic is a great source of wonder (if used properly). The rare but powerful *Mask of the Skull* or the elusive *Orb of Storms* are (can be) present in this world, but it's a once in a lifetime opportunity to find such an item.
 
 ![Map](/images/map.png)
 
