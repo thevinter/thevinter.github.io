@@ -1,13 +1,13 @@
 ---
 layout: cos
-title: The Wizard Of The Wines Winery
+title: The Wizard Of Wines Winery
 ---
 
 ![Header](/images/header_wine.jpg)
 
 ## Overview 
 
-The Wizard Of The Wines is a winery that stopped producing wine and it's up to the players to figure out why. The winery originally had three gems that helped the grapes grow.
+The Wizard Of Wines is a winery that stopped producing wine and it's up to the players to figure out why. The winery originally had three gems that helped the grapes grow.
 
 The first one was stolen by an unknown party, the second one has been stolen by Baba Lysaga (from Berez) and the last one has been stolen by the druids from Yester Hill. Now the building is occupied by blights and druids.
 
