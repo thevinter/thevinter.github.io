@@ -5,7 +5,7 @@ title: Jardskírn
 
 ![Header](/images/header_homebrew.jpg)
 
-The main page explaining my homebrew world of Jardskírn. A low-magix isolated world based on Iceland and Japan.
+The main page explaining my homebrew world of Jardskírn. A low-magic isolated world based on Iceland and Japan.
 
 ## Why do I felt the urge to create my own world?
 
