@@ -5,15 +5,15 @@ title: Jardskírn
 
 ![Header](/images/header_homebrew.jpg)
 
-The main page explaining my homebrew world of Jardskírn. A low-fantasy isolated world based on Iceland and Japan.
+The main page explaining my homebrew world of Jardskírn. A low-magix isolated world based on Iceland and Japan.
 
 ## Why do I felt the urge to create my own world?
 
 Existing worlds are great and all, but they share one common element, a rich history. While this might be a positive for some of the players, I feel that it adds an element of **separation between player and character** because the latter is supposed to know stuff that the former doesn't. Jardskírn being isolated doesn't have an history, or at least not one as we all intend it. Players are left to be discoverers of such world and they learn with along their characters every nuance of Jardskírn.
 
-Other than that there's also the *"low-fantasy"* bit. I think that a rich magic presence in a world prevents the players for thinking rationally and evaluating each action in an optimal way. There will be always some "magical outcome" they didn't consider because, well, they don't really know the magical rules of the world instead of, let's say, the physical ones. In the real world if you drop a big stone fall you can almost be certain that it will fall, this doesn't happen in most of the existing fantasy worlds.
+Other than that there's also the *"low-magic"* bit. I think that a rich magic presence in a world prevents the players for thinking rationally and evaluating each action in an optimal way. There will be always some "magical outcome" they didn't consider because, well, they don't really know the magical rules of the world instead of, let's say, the physical ones. In the real world if you drop a big stone fall you can almost be certain that it will fall, this doesn't happen in most of the existing fantasy worlds.
 
-It's a *"low-fantasy"* setting and not a *"magic-less"* one because in my opinion magic is a great source of wonder (if used properly). The rare but powerful *Mask of the Skull* or the elusive *Orb of Storms* are (can be) present in this world, but it's a once in a lifetime opportunity to find such an item.
+It's a *"low-magic"* setting and not a *"magic-less"* one because in my opinion magic is a great source of wonder (if used properly). The rare but powerful *Mask of the Skull* or the elusive *Orb of Storms* are (can be) present in this world, but it's a once in a lifetime opportunity to find such an item.
 
 ![Map](/images/map.png)
 
