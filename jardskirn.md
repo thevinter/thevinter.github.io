@@ -19,7 +19,7 @@ It's a *"low-magic"* setting and not a *"magic-less"* one because in my opinion 
 
 ## Overview of the world
 
-*Jardskírn* is an expansion of Forgotten Worlds (or any other fantasy settings of your choice) where mortals messed with things they shouldnt've touched. A magical catastrophe happened and the whole previous world was destroyed except for a handful of survivors that got teleported in this alternate dimension after getting their memory wiped (convenient, huh?). 
+*Jardskírn* is an expansion of Forgotten Realms (or any other fantasy settings of your choice) where mortals messed with things they shouldnt've touched. A magical catastrophe happened and the whole previous world was destroyed except for a handful of survivors that got teleported in this alternate dimension after getting their memory wiped (convenient, huh?). 
 
 The island's area is approximatively 200 000 km², with big mountains in the middle and in the east part, and planes and hills on the rest of the area. There are two big lakes and five main rivers. The northern part, and some of the eastern montain sides are covered in thick forests that almost reach the sea. The south-west is one big plane with a lake and a river. Geysers and small vulcanoes are present almost everywhere on the island. The island is composed primarily of basalt, a low-silica lava associated with effusive volcanism.
 
