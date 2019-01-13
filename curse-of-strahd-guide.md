@@ -20,4 +20,5 @@ I really hope you like it! For suggestions and questions feel free to write me a
  - [The Town Of Vallaki](https://thevinter.github.io/2019/01/04/the-town-of-vallaki/)
  - [The Wizard Of The Wines Winery](https://thevinter.github.io/2019/01/05/the-wizards-of-the-wine/)
  - [Yester Hill](https://thevinter.github.io/2019/01/09/yester-hill/)
+ - [Ruins Of Berez](https://thevinter.github.io/2019/01/13/ruins-of-berez/)
  - More to come!
