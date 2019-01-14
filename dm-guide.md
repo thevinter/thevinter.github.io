@@ -20,7 +20,7 @@ This is intended to be a comprehensive guide to all Dungeons & Dragons players, 
 * [What race/class to play?](#7)
 * [How do spells work?](#8)
 * [Skill Checks and Ability Checks](#9)
-* [Advantage And Disadvantage](#1)
+* [Advantage And Disadvantage](#10)
 * [Combat](#11)
 * [Spellcasting in Combat](#12)
 * [DM Advice](#13)
