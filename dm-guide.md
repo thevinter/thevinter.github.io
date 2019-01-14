@@ -27,13 +27,13 @@ This is intended to be a comprehensive guide to all Dungeons & Dragons players, 
 
  
 
-## <a name="1"></a>Choosing the right game
+## <a name="1">Choosing the right game
 
 So, you want to play Dungeons & Dragons. Let's say you learnt about it after watching Critical Role or some other show. Or maybe some friend told you about it. So now you're eager to play. But before you do this there are something you must consider. *Is D&D the right game for you?* 
 
 Since it's the most popular role-playing game ever, many people play it and suggest it to others without realizing what's behind. D&D has a great history, and it was born as a game where you enter a dungeon, slay monsters and get loot. That's it. Many editions have passed since then and the game evolved, but always remember its roots. **Why do you want to play D&D?** If you want to play a game for the role-playing element, then D&D isn't probably the best choice (social interactions with NPCs are a nightmare!). If you want to play a game in a different setting then D&D isn't the right game for you either. Evaluate the possible choices and choose accordingly, trying to force yourself to play a game just because it's supposed to be fun for you won't work.
 
-## <a name="2"></a>Why to play D&D then?
+## <a name="2">Why to play D&D then?
 
 Dungeons & Dragons has a very long history. Gigantic communities have been built around it, there are lots of books, materials and supplements. You'll never run out of content and the lore of some of its settings is rich and deep. D&D (at least its 5th edition) is easy to pick up and teach to your players. It doesn't require too much prep work, and there's usually not much stuff to track. Right now Dungeons & Dragons is one of your best choices if you want to run a classic adventure in a classic fantasy setting, that has a good compromise between killing monsters, exploring and socializing. 
 
