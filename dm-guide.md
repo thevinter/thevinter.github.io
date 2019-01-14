@@ -1,9 +1,7 @@
-
-  
-
-### [Dragon's Lair](https://thevinter.github.io/ "Home")  My Personal D&D Lair
-
-# Comprehensive Dungeons & Dragons Guide
+---
+layout: page
+title: Comprehensive Dungeons & Dragons Guide
+---
 
 ![Header](https://thevinter.github.io/images/header_xan.jpg)
 
