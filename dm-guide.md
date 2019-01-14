@@ -1,4 +1,3 @@
-
 ---
 layout: page
 title: Comprehensive Dungeons & Dragons Guide
