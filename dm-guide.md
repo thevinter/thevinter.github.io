@@ -40,7 +40,7 @@ Dungeons & Dragons has a very long history. Gigantic communities have been built
 
 # Where Do We Start?
 
-## <a name="3"></a>How do I play?
+## <a name="3">How do I play?
 
 To play the game you'll need some multi-sided die, at least one friend (it works best when there are three or four of them), and some pen and paper or a pc. That's it! It's that simple. If you want a brief explanation of rules because you're eager to play then here you go: one person (called the Dungeon Master) tells a story and the other players react with their characters. If the result of an action isn't guaranteed then you roll a dice and react accordingly. Of course the truth is a bit more complex than that, but this description pretty much sums up 90% of the game.
 
