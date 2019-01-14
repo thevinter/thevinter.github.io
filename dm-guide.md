@@ -36,7 +36,7 @@ Since it's the most popular role-playing game ever, many people play it and sugg
 
 ## <a name="2"></a>Why to play D&D then?
 
-Dungeons & Dragons have a very long history. Gigantic communities has been built around it, there are lots of books, materials and supplements. You'll never run out of content and the lore of some of its settings is rich and deep. D&D (at least its 5th edition) is easy to pick up and teach to your players. It doesn't require too much prep work, and there's usually not much stuff to track. Right now Dungeons & Dragons is one of your best choices if you want to run a classic adventure in a classic fantasy setting, that has a good compromise between killing monsters, exploring and socializing. 
+Dungeons & Dragons has a very long history. Gigantic communities have been built around it, there are lots of books, materials and supplements. You'll never run out of content and the lore of some of its settings is rich and deep. D&D (at least its 5th edition) is easy to pick up and teach to your players. It doesn't require too much prep work, and there's usually not much stuff to track. Right now Dungeons & Dragons is one of your best choices if you want to run a classic adventure in a classic fantasy setting, that has a good compromise between killing monsters, exploring and socializing. 
 
 # Where Do We Start?
 
