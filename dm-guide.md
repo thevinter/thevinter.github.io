@@ -9,19 +9,37 @@ title: Comprehensive Dungeons & Dragons Guide
 
 This is intended to be a comprehensive guide to all Dungeons & Dragons players, and mostly new Dungeon Masters. It contains lots of questions I've seen during my years of DMing, and other stuff that comes from my experience as a player. I really hope you find it useful.
 
-## Choosing the right game
+### Summary:
+
+* [Choosing the right game](#1)
+* [Why to play D&D?](#2)
+* [How do I play?](#3)
+* [What do I need to buy?](#4)
+* [What are adventures?](#5)
+* [How do I create a character?](#6)
+* [What race/class to play?](#7)
+* [How do spells work?](#8)
+* [Skill Checks and Ability Checks](#9)
+* [Advantage And Disadvantage](#1)
+* [Combat](#11)
+* [Spellcasting in Combat](#12)
+* [DM Advice](#13)
+
+ 
+
+## <a name="1"></a>Choosing the right game
 
 So, you want to play Dungeons & Dragons. Let's say you learnt about it after watching Critical Role or some other show. Or maybe some friend told you about it. So now you're eager to play. But before you do this there are something you must consider. *Is D&D the right game for you?* 
 
 Since it's the most popular roleplaying game ever, many people play it and suggest it to others without realizing what's behind. D&D has a great history, and it was born as a game where you enter a dungeon, slay monsters and get loot. That's it. Many editions have passed since then and the game evolved, but always remember its roots. **Why do you want to play D&D?** If you want to play a game for the roleplaying element, then D&D isn't probably the best choice (social interations with NPCs are a nightmare!). If you want to play a game in a different setting then D&D isn't the right game for you either. Evaluate the possible choices and choose accordingly, trying to force yourself to play a game just because it's supposed to be fun for you won't work.
 
-## Why to play D&D then?
+## <a name="2">Why to play D&D then?
 
 Dungeons & Dragons have a very long history. Gigantic communities has been built around it, there are lots of books, materials and supplements. You'll never run out of content and the lore of some of its settings is rich and deep. D&D (at least its 5th edition) is easy to pick up and teach to your players. It doesn't require too much prep work, and there's usually not much stuff to track. Right now Dungeons & Dragons is one of your best choices if you want to run a classic adventure in a classic fantasy setting, that has a good compromise between killing monsters, exploring and socializing. 
 
 # Where Do We Start?
 
-## How do I play?
+## <a name="3">How do I play?
 
 To play the game you'll need some multisided die, at least one friend (it works best when there are three or for of them), and some pen and paper or a pc. That's it! It's that simple. If you want a brief explanation of rules because you're eager to play then here you go: one person (called the Dungeon Master) tells a story and the other players react with their characters. If the result of an action isn't guaranteed then you roll a dice and react accordingly. Of course the truth is a bit more complex than that, but this description pretty much sums up 90% of the game.
 
@@ -29,7 +47,7 @@ But let's say you want to bring your game to a higher level. Luckily Wizard Of T
 
 Not everyone has to read the rules; only the DM can do so and then explain the basics to the players while playing. But it's adviced that everyone reads the rules at least once so the flow of the game can be more fluid.
 
-## What do I need to buy
+## <a name="4">What do I need to buy?
 
 Now you played a game or two and found out that you like the game. Where do we go from there? Well, now you can buy some books. The latest edition of the game is the 5th one, and pretty much all the relevant material online is about this edition (but some people like to play older editions as well, keep that in mind!). So you'll have to look online for some 5E Manuals. 
 
@@ -39,7 +57,7 @@ The next step, if you're a DM would be to buy the Monster Manual (MM) that conta
 
 Or, if you're still not sure about the game, instead of buying the manuals you could buy Lost Mines Of Phandelver, a Starter Adventure!
 
-## What are adventures?
+## <a name="5">What are adventures?
 
 Adventures are books published by Wizards Of The Cost that contain a fully developed story, with descriptions of NPCs, key locations and monsters. They're meant for those that don't have the time to write their own adventures, want some inspiration, or just can't create something good because they're not experienced enough. 
 
@@ -51,7 +69,7 @@ Other adventures have been released during the years, but be wary that some of t
 
 # Basic Rules 
 
-## How do I create a character?
+## <a name="6">How do I create a character?
 
 The Player's Handbook has an entire chapter about that, it can be intimidating at first, but it's really simple. At first you choose a race and a class, then you roll for your abilities (4d6 six times, dropping the lowest). Instead of rolling you could use [point buy](http://1-dot-encounter-planner.appspot.com/point-buy-calculator.html), or the [standard array](https://gamingballistic.com/2015/08/15/dnd5-standard-array/). All of them are viable, but I think that point buy is the most balanced one. After you have your stats you assign each number to the stat you want. The PHB provides some suggested builds for each class if you don't know how to distribute them.
 
@@ -73,11 +91,11 @@ Lastly you'll have to fill out your Features and Traits, copying them from the P
 
 Easy huh? And all of this considering you didn't pick a spellcaster! We'll talk about them later.
 
-## But I don't know what race/class I want to play!
+## <a name="7">But I don't know what race/class I want to play!
 
 Fear not and play whatever you like most! The class has almost no influence on the gameplay (especially the basic ones) so you can't go wrong with that. The class is a bit more tricky. I'd suggest avoiding the spellcasters if you're a new player since they have lots of things to track. My suggestion would be to play a Barbarian, a Fighter or a Rogue.
 
-## I don't care about your stupid suggestions and I want to play a sorcerer. How do spells work?
+## <a name="8">I don't care about your stupid suggestions and I want to play a sorcerer. How do spells work?
 
 Well, every class in the game has something called "spell slots", every level you gain new spell slots and every slot is tied to a spell level (not to be confused with class levels!) Whenever you cast a spell you have to use one slot of the level of the spell you want to cast, or higher. For example if you wanted to cast a 3rd level spell called *Fireball* you'd have to spend a slot of 3rd level or higher. There are also level 0 spells called **cantrips**: those do not require a spell slot to be cast, and can be used at will. All the spell slots reset after a long rest.
 
@@ -105,19 +123,19 @@ Warlocks are really similar to the second group of spellcasters I mentioned sinc
 
 Bards, Clerics, Druids and Wizards can cast ritual spells. If a spell they have is labeled as ritual in the PHB this means it can be cast a ritual. If you spend 10 minutes casting the spell, it will be cast without expending a slot, basically giving you a free spell. Wizards can cast ritual spells even if they don't have them prepared, while Clerics and Druid do have to have it prepared.
 
-## Skill Checks and Ability Checks
+## <a name="9">Skill Checks and Ability Checks
 
 If you're a DM then you will have to challenge your players. If one of the characters is attempting to do something, and there's no guarantee he'll succeed, it's an action that calls for a skill check! The player will have to roll a d20, add the modifier of the skill he's using to perform the action and then he will confront the result with the Difficulty Class (DC) of the action. Remember that DCs between 10 and 12 are considered to be of average difficulty. Climbing a wall (DC10) won't be as easy as jumping across a 10 feet river with crocodiles and piranhas (DC20).
 
 If there's no fitting skill you can just make the player roll and add the stat modifier that is more fitting.
 
-## Advantage and Disadvantage
+## <a name="10">Advantage and Disadvantage
 
 If you have advantage on a roll you roll two die and take the highest, if you have disadvantage you do the same and take the lowest. Remember that multiple instances don't stack and advantage and disadvantage cancel eachother. If you have at least one effect that gives advantage and one effect that gives disadvantage you roll normally. 
 
 ![Yawn](/images/yawn.jpg)
 
-## Combat
+## <a name="11">Combat
 
 Combat is divided in rounds, each round is 6 seconds long. Try to avoid confusion between turn (one single turn of one of your players) and round (a set of turns).
 
@@ -169,7 +187,7 @@ The name is, once again, self-explanatory. If the use of an object takes more th
 
 If you're standing in range of an enemy you're in his zone of influence, if you move out of it then you provoke an opportunity attack from him (basically a free attack he does against you). The same goes for you, if an enemy moves out of your range then you can spend one reaction to do an opportunity attack on him (the reaction is consumed so you can't do more than one per round!). Going around the enemy doesn't provoke opportunity attacks since you're never leaving his reach, and remember you can use the Disegnage action to avoid opportunity attacks.
 
-### Spellcasting in Combat
+### <a name="12">Spellcasting in Combat
 
 I'll ignore some of the smaller details that you'll find in the PHB and will talk about the spells themselves. There are mostly two types of spells: "against save" and "to hit". If the spell is against save then you cast the spell by using an action and then every creature targeted by it must make a Spell Save roll, with your spell determining what happens if they fail. Then there are the "to hit" spells. Those are similar to a ranged attack, but instead of applying DEX you apply your spellcasting modifier. If the roll is higher than the target's AC then you hit and do damage.
 
@@ -177,7 +195,7 @@ Some of the spells require concentration, this means that you need to be concent
 
 ![Dino](/images/dino.png)
 
-# DM Advice
+# <a name="13">DM Advice
 
 Now that we went over everything necessary to play the game we need to talk about everything that is necessary to run one. This section is aimed to contain everything you'd wanna know to start running your very own adventure.
 
