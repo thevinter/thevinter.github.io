@@ -29,7 +29,7 @@ This is intended to be a comprehensive guide to all Dungeons & Dragons players, 
 
 ## <a name="1">Choosing the right game
 
-So, you want to play Dungeons & Dragons. Let's say you learnt about it after watching Critical Role or some other show. Or maybe some friend told you about it. So now you're eager to play. But before you do this there are something you must consider. *Is D&D the right game for you?* 
+So, you want to play Dungeons & Dragons. Let's say you learned about it after watching Critical Role or some other show. Or maybe some friend told you about it. So now you're eager to play. But before you do this there are something you must consider. *Is D&D the right game for you?* 
 
 Since it's the most popular role-playing game ever, many people play it and suggest it to others without realizing what's behind. D&D has a great history, and it was born as a game where you enter a dungeon, slay monsters and get loot. That's it. Many editions have passed since then and the game evolved, but always remember its roots. **Why do you want to play D&D?** If you want to play a game for the role-playing element, then D&D isn't probably the best choice (social interactions with NPCs are a nightmare!). If you want to play a game in a different setting then D&D isn't the right game for you either. Evaluate the possible choices and choose accordingly, trying to force yourself to play a game just because it's supposed to be fun for you won't work.
 
@@ -41,9 +41,9 @@ Dungeons & Dragons has a very long history. Gigantic communities have been built
 
 ## <a name="3">How do I play?
 
-To play the game you'll need some multi-sided die, at least one friend (it works best when there are three or four of them), and some pen and paper or a pc. That's it! It's that simple. If you want a brief explanation of rules because you're eager to play then here you go: one person (called the Dungeon Master) tells a story and the other players react with their characters. If the result of an action isn't guaranteed then you roll a dice and react accordingly. Of course the truth is a bit more complex than that, but this description pretty much sums up 90% of the game.
+To play the game you'll need some multi-sided die, at least one friend (it works best when there are three or four of them), and some pen and paper or a pc. That's it! It's that simple. If you want a brief explanation of rules because you're eager to play then here you go: one person (called the Dungeon Master) tells a story and the other players react with their characters. If the result of an action isn't guaranteed then you roll a die and react accordingly. Of course the truth is a bit more complex than that, but this description pretty much sums up 90% of the game.
 
-But let's say you want to bring your game to a higher level. Luckily Wizard Of The Cost provide a **free** [basic ruleset](https://www.dndbeyond.com/compendium/rules/basic-rules) that covers pretty much all of the rules. You still don't have to pay for anything except the dice and the rules don't become much more complex than "if something is difficult then you roll a dice and add the appropriate modifiers". There are also some free classes and some free races, so everyone can build their own unique character. 
+But let's say you want to bring your game to a higher level. Luckily Wizards Of The Cost provide a **free** [basic ruleset](https://www.dndbeyond.com/compendium/rules/basic-rules) that covers pretty much all the rules. You still don't have to pay for anything except the dice and the rules don't become much more complex than "if something is difficult then you roll a die and add the appropriate modifiers". There are also some free classes and some free races, so everyone can build their own unique character. 
 
 Not everyone has to read the rules; only the DM can do so and then explain the basics to the players while playing. But it's advised that everyone reads the rules at least once so the flow of the game can be more fluid.
 
@@ -51,7 +51,7 @@ Not everyone has to read the rules; only the DM can do so and then explain the b
 
 Now you played a game or two and found out that you like the game. Where do we go from there? Well, now you can buy some books. The latest edition of the game is the 5th one, and pretty much all the relevant material online is about this edition (but some people like to play older editions as well, keep that in mind!). So you'll have to look online for some 5E Manuals. 
 
-The first one you'll need to buy is the Player's Handbook (PHB for short). It contains everything you need to play, all the classes and the sub-classes, all the spells, the races etc. and it costs ~50$ (as of the writing of this article). You can buy it physical or digital, and you'll need only one copy, but it's better if you have more than one so you can pass it around easily. 
+The first one you'll need to buy is the Player's Handbook (PHB for short). It contains everything you need to play, all the classes and the sub-classes, all the spells, the races etc. and it costs ~$50 (as of the writing of this article). You can buy it physical or digital, and you'll need only one copy, but it's better if you have more than one so you can pass it around easily. 
 
 The next step, if you're a DM would be to buy the Monster Manual (MM) that contains a lot of monsters to populate your adventures, and the Dungeon Masters Guide (DMG) that gives a lot of tips on how to build your world and your adventure and gives some advanced and variant rules. Those two last books are entirely optional and are used only to enhance your game.
 
@@ -93,7 +93,7 @@ Easy huh? And all of this considering you didn't pick a spellcaster! We'll talk 
 
 ## <a name="7"></a>But I don't know what race/class I want to play!
 
-Fear not and play whatever you like most! The class has almost no influence on the gameplay (especially the basic ones) so you can't go wrong with that. The class is a bit more tricky. I'd suggest avoiding the spellcasters if you're a new player since they have lots of things to track. My suggestion would be to play a Barbarian, a Fighter or a Rogue.
+Fear not and play whatever you like most! The race has almost no influence on the gameplay (especially the basic ones) so you can't go wrong with that. The class is a bit more tricky. I'd suggest avoiding the spellcasters if you're a new player since they have lots of things to track. My suggestion would be to play a Barbarian, a Fighter or a Rogue.
 
 ## <a name="8"></a>I don't care about your stupid suggestions and I want to play a sorcerer. How do spells work?
 
@@ -117,7 +117,7 @@ Instead of knowing a set amount of spells, you know all of your class' spells if
 
 ### Warlocks
 
-Warlocks are really similar to the second group of spellcasters I mentioned since they know a fixed amount of spells don't have to prepare them, but they work a bit differently. Warlocks have a very small amount of slots, that recharges whenever they do a short rest, instead of a long one. Also their slots are always maxed out in regards to the spell level, and said level increases with character progression.
+Warlocks are really similar to the second group of spellcasters I mentioned since they know a fixed amount of spells and don't have to prepare them, but they work a bit differently. Warlocks have a very small amount of slots, that recharges whenever they do a short rest, instead of a long one. Also their slots are always maxed out regarding the spell level, and said level increases with character progression.
 
 ### Rituals
 
@@ -131,7 +131,7 @@ If there's no fitting skill you can just make the player roll and add the stat m
 
 ## <a name="10"></a>Advantage and Disadvantage
 
-If you have advantage on a roll you roll two die and take the highest, if you have disadvantage you do the same and take the lowest. Remember that multiple instances don't stack and advantage and disadvantage cancel each-other. If you have at least one effect that gives advantage and one effect that gives disadvantage you roll normally. 
+If you have advantage on a roll you roll two dice and take the highest, if you have disadvantage you do the same and take the lowest. Remember that multiple instances don't stack and advantage and disadvantage cancel each-other. If you have at least one effect that gives advantage and one effect that gives disadvantage you roll normally. 
 
 ![Yawn](/images/yawn.jpg)
 
@@ -161,9 +161,9 @@ Whenever you use the Dash action you can move again up to your total speed (basi
 
 The action allows you to avoid all opportunity attacks (more on this later) **until your next turn**.
 
-### Doge 
+### Dodge 
 
-With the dodge action every enemy has disadvantage until your next turn if its attacking you, and you make DEX saving throws with advantage. If you're in doubt on what to do always take a Dodge action
+With the dodge action every enemy has disadvantage until your next turn if its attacking you, and you make DEX saving throws with advantage. If you're in doubt on what to do always take a Dodge action.
 
 ### Help
 
@@ -191,7 +191,7 @@ If you're standing in range of an enemy you're in his zone of influence, if you 
 
 I'll ignore some of the smaller details that you'll find in the PHB and will talk about the spells themselves. There are mostly two types of spells: "against save" and "to hit". If the spell is against save then you cast the spell by using an action and then every creature targeted by it must make a Spell Save roll, with your spell determining what happens if they fail. Then there are the "to hit" spells. Those are similar to a ranged attack, but instead of applying DEX you apply your spellcasting modifier. If the roll is higher than the target's AC then you hit and do damage.
 
-Some of the spells require concentration, this means that you need to be concentrated on the spell for it to work. You can do basic actions in the meanwhile but you can't cast another spell that requires concentration unless you want to break it. If you take damage then you have to roll a d20 with DC 10 or half the damage you took, whichever is higher. If you fail the spell ends.
+Some spells require concentration, this means that you need to be concentrated on the spell for it to work. You can do basic actions in the meanwhile but you can't cast another spell that requires concentration unless you want to break it. If you take damage then you have to roll a d20 with DC 10 or half the damage you took, whichever is higher. If you fail the spell ends.
 
 ![Dino](/images/dino.png)
 
@@ -213,12 +213,12 @@ Prepare an outline for a story. Have some ideas about the starting couple of hou
 
 ## What is a session zero?
 
-A session zero is the beginning session where everyone gathers at the table to create the characters and talk about the campaign and about the general expectations. Remember, different people like different things: someone might prefer combat, another one might love political intrigue. Try to listen to what they like and plan your campaign accordingly. Also it might be a good idea to tell them about your style, about what you have planned for them and to set the tone of the campaign. Is it a fun campaign where the main villain is called FartyMcPants or it's a serious and grim one where players are expected to roleplay as best as they can?
+A session zero is the beginning session where everyone gathers at the table to create the characters and talk about the campaign and about the general expectations. Remember, different people like different things: someone might prefer combat, another one might love political intrigue. Try to listen to what they like and plan your campaign accordingly. Also it might be a good idea to tell them about your style, about what you have planned for them and to set the tone of the campaign. Is it a fun campaign where the main villain is called FartyMcPants or it's a serious and grim one where players are expected to roleplay as good as they can?
 
 ## I'm using a premade adventure, do I still need to prepare?
 
-Yes, but slightly less. Depending on the adventure you might need to read the first few chapters of it, maybe the whole book (yes Curse Of Strahd, I'm looking at you) and get used with the places your party's gonna visit. It might be good to prepare some voices for the NPCs and think about how're they like and how are they gonna interact with the party. The more you know about the adventure the more enjoyable you're experience is going to be
+Yes, but slightly less. Depending on the adventure you might need to read the first few chapters of it, maybe the whole book (yes Curse Of Strahd, I'm looking at you) and get used with the places your party's gonna visit. It might be good to prepare some voices for the NPCs and think about how're they like and how are they gonna interact with the party. The more you know about the adventure the more enjoyable your experience is going to be.
 
 ## How do I make my game fun?
 
-This is a very broad and subjective topic, but one main thing you can do is to say "yes" to your players. You might've created a story and you're party is going to destroy it with the thing they're asking to do, but you just have to say "yes" (if it's reasonable of course). The players don't really care about what they don't see, they just want to do cool things and get cool results. If a player is asking to do something then he's going to have fun by doing it. If a player asks "What's above the giant behemot?" don't just say nothing, say "there's a giant chandelier made of glass right above his head". Let your players play. The game is not about players listening to your story, it's about players interacting within it
+This is a very broad and subjective topic, but one main thing you can do is to say "yes" to your players. You might've created a story and you're party is going to destroy it with the thing they're asking to do, but you just have to say "yes" (if it's reasonable of course). The players don't really care about what they don't see, they just want to do cool things and get cool results. If a player is asking to do something then he's going to have fun by doing it. If a player asks "What's above the giant behemoth?" don't just say nothing, say "there's a giant chandelier made of glass right above his head". Let your players play. The game is not about players listening to your story, it's about players interacting within it.
