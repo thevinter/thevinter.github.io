@@ -5,7 +5,7 @@ title: About This Site
 
 ![Header](/images/header_about.jpg)
 
-My name is **Nik Vinter** and i've been a DM for more than 5 years already. I'm interested in world building, homebrewing and running official **Dungeons & Dragons 5E** content.
+My name is **Nik Vinter** and i've been a DM for more than 5 years already. I'm interested in OSR, homebrewing and running official **Dungeons & Dragons** content.
 
 In this site you'll find articles, reviews and homebrews for monsters. As well as tools i've developed to help you DMing your games. I hope you stick around and find something useful.
 

@@ -27,7 +27,7 @@ Someone will tell you D&D is a cooperative storytelling effort, others will tell
 ![Party](/images/party.jfif)
 
 # How To Solve Everything
-There's no magic formula but changing ruleset is a big step forward. OSR rulesets like B/X, DCC, LOTFP and my own Minimum solve a lot of problems just by changing the rules. First of all the key concept of OSR: **rulings over rules**. The ruleset should give you a guide on how to deal with things, not a list of allowed actions. If your players want to do something and it seems reasonable just let them! Less rules equals less time spent dealing with stupid shit and more time playing. Let's see some examples of how OSR solves the things mentioned before:
+There's no magic formula but changing ruleset is a big step forward. OSR rulesets like B/X, DCC, LOTFP and my own [Minimum](https://www.drivethrurpg.com/product/332306/minimum) aim to solve a lot of problems just by changing the rules. First of all the key concept of OSR: **rulings over rules**. The ruleset should give you a guide on how to deal with things, not a list of allowed actions. If your players want to do something and it seems reasonable just let them! Less rules equals less time spent dealing with stupid shit and more time playing. Let's see some examples of how OSR solves the things mentioned before:
 
 * **Combat:** Combat is deadlier and shorter. One of the ideas in OSR books is to embrace randomness and random encounters. In 5e they're a dread, in OSR they're a recipe for fun. Combat is war, it's not made to be won and this stimulates creative thinking and problem solving. If a skeleton is gonna kill you in 3 hits just don't run at it and drop a fucking library on him instead. 
 
