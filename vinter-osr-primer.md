@@ -39,7 +39,7 @@ There's no magic formula but changing ruleset is a big step forward. OSR ruleset
 
 ![Party](/images/wizard.jpg)
 
-#Other Considerations aka Stream Of Consciousness
+# Other Considerations aka Stream Of Consciousness
 There are various topics I didn't go over, mainly because I suck at writing and didn't know where to fit them but also because I might have forgotten about them. In general, Dungeons & Dragons is a game, a game where there should be fucking Dungeons and fucking Dragons, and in 5e there are none. Dungeon Of The Mad Mage is an example of that: it's considered to be one of the worst modules but that's mainly because the new rules suck for implementing a decent dungeon crawl. New D&D is all about living your own fetish dream and jerking off to a world you've created instead of actually playing a game, and I hate that. Embrace random tables, embrace sandboxing, put cool weapons and magical items and homebrew everything. Who fucking cares if Holdir with that Sword Of Ogre Slaying is too powerful? He could die any minute if he's not careful and a monster could steal his sword. Make the game revolve around the players and not the other way around.
 
 There are only three things necessary for a fun game: Motivation, Loot and Cool Ideas, and sometimes the desire of finding what cool shit the DM has put in the next room is already a good motivation on its own. 
