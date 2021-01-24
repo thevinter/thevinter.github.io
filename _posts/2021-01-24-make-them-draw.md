@@ -1,5 +1,5 @@
 ---
-layout: cos
+layout: post
 title: Make Them Draw
 ---
 
