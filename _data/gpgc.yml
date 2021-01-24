@@ -1,0 +1,11 @@
+repo_owner: thevinter
+repo_name: thevinter.github.io
+disabled: false
+use_show_action: false
+label_name: Post Comments
+label_color: 666666
+github_application:
+  client_id: c6dd5df4699fef807e21
+  code_authenticator: https://vintercomments.herokuapp.com/authenticate/
+  callback_url: https://thevinter.github.io/public/html/gpgc_redirect.html
+enable_diagnostics: false
