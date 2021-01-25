@@ -5,8 +5,6 @@ title: Make Them Draw
 
 ![Header](/images/osr_map.png)
 
-## Make Them Draw!
-
 # Why should you make your players draw their maps
 
 One core principle in my games is that I insist on making my players draw their own maps with me just describing them. Am I a sadist? Probably, but that's besides the point. Map drawing should be present in every game and here's why:
