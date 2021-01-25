@@ -60,6 +60,7 @@ Here are, in my opinion, some good and bad starting rooms (some are taken from a
 ![Tome](/images/tome.jpg)
 
 >The room contains a chest in the east corner and some old tables and chairs with dead, decomposed bodies sitting on them. The chest is trapped and, if not opened carefully, will release a stenching cloud of miasma in the room that will awaken the bodies. They will attack the players after a brief delay. 
+
 **(GOOD)** This teaches the players that things are trapped, allows the players to escape, adds a new challenge and "locks the treasure" unless the new challenge is defeated, all at once and without killing anyone with a 2d8 trapped lock.
 
 # Conclusion 
