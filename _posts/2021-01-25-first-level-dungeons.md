@@ -39,7 +39,7 @@ As mentioned before, while higher levels grant more HP and more freedom, this sa
 
 Or rather, such situations can and should exist, but they have to be clear and, while not obvious, at least telegraphed. Make players pay with food, XP, weapons and gold for their mistakes, even with their HP, but **not with their lives** (unless they make the same mistake twice). I feel like players should be allowed to learn without being punished (too much) and start the real deal once they're supposed to have learned. If they didn't learn by then that's their fault. 
 
-Here are, in my opinion, some good and bad starting rooms (some are taken from actual dungeons and some re just written by me):
+Here are, in my opinion, some good and bad starting rooms (some are taken from actual dungeons and some are just written by me):
 
 >This room has a pressure-plate isolation trap. As soon as the first PC (and second, Referee’s discretion) enters this room a stone wall will descend from the ceiling isolating the front rank from the rest of the party. The door to the north wall will swing open and the skeletons from room #3 will attack! A dark flagstone in the hallway floor just outside the door to #2 is loose and conceals a reset lever that will raise the stone slab
 
@@ -64,4 +64,4 @@ Here are, in my opinion, some good and bad starting rooms (some are taken from a
 **(GOOD)** This teaches the players that things are trapped, allows the players to escape, adds a new challenge and "locks the treasure" unless the new challenge is defeated, all at once and without killing anyone with a 2d8 trapped lock.
 
 # Conclusion 
-Don't get me wrong. I'm not advocating for an easier play or dungeon making and I'm not saying that the same advice will apply to all groups of players (after all, some players had fun running Tomb Of Horrors) but this is some general advice that I can give you about making low level play less frustrating. Teach players to use the environment, punish them, take away their loot and make them go back to town. Kill them if they don't learn. Just don't be a "fuck you" DM, it's usually not fun.
+Don't get me wrong. I'm not advocating for an easier play or dungeon making and I'm not saying that the same advice will apply to all groups of players (after all, some players had fun running Tomb Of Horrors) but this is some general advice that I can give you about making low level play less frustrating. Teach players to use the environment, punish them, take away their loot and make them go back to town. Kill them if they don't learn. Just **don't be a "fuck you" DM**, it's usually not fun.
