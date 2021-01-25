@@ -6,7 +6,7 @@ title: First Level Dungeons
 ![Header](/images/dungeon_header.jfif)
 
 # The Problem With The First Level
-I've played many OSR games, a lot of them never went past trough the first levels so that means I have a good experience with low level play and bad experience with higher tiers. I also played with various players, some more used to OSR play than others. There is one key problem that frustrates a lot of people, both old and new and it's the low starting HP. Yes sure, deadly games are part of the OSR mythos and players aren't supposed to fight, they're supposed to survive and find clever solutions to combat, but sometimes dungeon is just inevitable and I would like to spend a few lines talking about how to optimize the first rooms of every dungeon.
+I've played many OSR games, a lot of them never went past trough the first levels so that means I have a good experience with low level play and bad experience with higher tiers. I also played with various players, some more used to OSR play than others. There is one key problem that frustrates a lot of people, both old and new and it's the **low starting HP**. Yes sure, deadly games are part of the OSR mythos and players aren't supposed to fight, they're supposed to survive and find clever solutions to combat, but sometimes dungeon is just inevitable and I would like to spend a few lines talking about how to optimize the first rooms of every dungeon.
 
 # Design Principles 
 If you've ever played Dark Souls you know how you can get to the skeleton area as soon as you reach the first HUB. It has great loot and XP but it's hard, very hard if you're a low level player. That zone is good from a game design standpoint for three reasons: 
@@ -15,9 +15,9 @@ If you've ever played Dark Souls you know how you can get to the skeleton area a
 2. Players understand that it's difficult because at first only a few skeletons spawn, before actually rising as a horde
 3. The player can respawn almost with no penalty
 
-And that's only one of many zones like that in the game. Can we translate the same concept into a dungeon? Well, yes and no. The first two points can be easily converted but it's the last one that sticks out. In a TTRPG characters die for good. There's a line that separates dumb behaviour and experimentation and while the first should be punished the latter should be rewarded. While dying should be embraced as part of the game, dying every time you make a small mistake is frustrating and unfun. 
+And that's only one of many zones like that in the game. Can we translate the same concept into a dungeon? Well, yes and no. The first two points can be easily converted but it's the last one that sticks out. In a TTRPG characters die for good. There's a line that separates dumb behaviour and experimentation and while the first should be punished the latter should be rewarded. While dying should be embraced as part of the game, dying **every time** you make a small mistake is frustrating and unfun. 
 
-At first levels all classes in most systems usually have between 3 and 10 hp. In comparison, a normal skeleton attack can do 1d6 damage. That's enough to kill one unlucky thief or mage even before they're able to move. I feel like during the first few levels, unless the players want a hardcore game, most of the damage should be avoidable or telegraphed. Let's take a look at something I think is bad design:
+At first levels all classes in most systems usually have between 3 and 10 hp. In comparison, a normal skeleton attack can do **1d6 damage**. That's enough to kill one unlucky thief or mage even before they're able to move. I feel like during the first few levels, unless the players want a hardcore game, most of the damage should be avoidable or telegraphed. Let's take a look at something I think is bad design:
 
 
 >Inside the pool are 2 Mummy Claws (HD 2, MORALE 12, ATK 1d4 [Claw] or 1d6 [Strangle]). These rotting hands will jump out to attack anyone who comes within 5' of the pit.
@@ -30,14 +30,14 @@ This is an extract taken from [Skerple's Tomb Of The Serpent King](https://www.d
 
 You might disagree but I think a lesson that straight up kills a player is not a lesson but a punishment. In one of my games a player got close to the water, a Mummy Claw jumped at him, he lost the initiative roll and proceeded to die. He then stopped playing forever since it was his 3rd death in the span of half an hour.
 
-I agree that players should get creative, shouldnt fight and he got unlucky both with the "to hit" roll and the damage one, but I feel like that monster (and other things inside the dungeon) were just too much
+I agree that players should get creative, shouldnt fight and he got unlucky both with the "to hit" roll and the damage one, but I feel like that monster (and other things inside the dungeon) was just too much.
 
 ![Orcs](/images/orcs.jfif)
 
 # Give Challenges, Not Coin Tosses
-As mentioned before, while higher levels grant more HP and more freedom, this sadly doesn't happen at level one, but I feel like most games and dungeons don't take that into consideration. What does that means? That means that at lower levels, in my opinion, almost no room should be a 50/50 die/survive situation. 
+As mentioned before, while higher levels grant more HP and more freedom, this sadly doesn't happen at level one, but I feel like most games and dungeons don't take that into consideration. What does that means? That means that at lower levels, in my opinion, **almost no room should be a 50/50 die/survive situation.** 
 
-Or rather, such situations can and should exist, but they have to be clear and, while not obvious, at least telegraphed. Make players pay with food, XP, weapons and gold for their mistakes, even with their HP, but not with their lives (unless they make the same mistake twice). I feel like players should be allowed to learn without being punished (too much) and start the real deal once they're supposed to have learned. If they didn't learn by then that's their fault. 
+Or rather, such situations can and should exist, but they have to be clear and, while not obvious, at least telegraphed. Make players pay with food, XP, weapons and gold for their mistakes, even with their HP, but **not with their lives** (unless they make the same mistake twice). I feel like players should be allowed to learn without being punished (too much) and start the real deal once they're supposed to have learned. If they didn't learn by then that's their fault. 
 
 Here are, in my opinion, some good and bad starting rooms (some are taken from actual dungeons and some re just written by me):
 
