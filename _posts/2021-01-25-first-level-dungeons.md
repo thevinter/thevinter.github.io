@@ -32,7 +32,7 @@ You might disagree but I think a lesson that straight up kills a player is not a
 
 I agree that players should get creative, shouldnt fight and he got unlucky both with the "to hit" roll and the damage one, but I feel like that monster (and other things inside the dungeon) were just too much
 
-![Cavern](/images/cavern.gif)
+![Orcs](/images/orcs.jfif)
 
 # Give Challenges, Not Coin Tosses
 As mentioned before, while higher levels grant more HP and more freedom, this sadly doesn't happen at level one, but I feel like most games and dungeons don't take that into consideration. What does that means? That means that at lower levels, in my opinion, almost no room should be a 50/50 die/survive situation. 
@@ -42,15 +42,19 @@ Or rather, such situations can and should exist, but they have to be clear and, 
 Here are, in my opinion, some good and bad starting rooms (some are taken from actual dungeons and some re just written by me):
 
 >This room has a pressure-plate isolation trap. As soon as the first PC (and second, Referee’s discretion) enters this room a stone wall will descend from the ceiling isolating the front rank from the rest of the party. The door to the north wall will swing open and the skeletons from room #3 will attack! A dark flagstone in the hallway floor just outside the door to #2 is loose and conceals a reset lever that will raise the stone slab
+
 **(MEDIOCRE)** This is a good concept but it forces the combat on the player, and while an escape is possible it's concealed behind an hard to find lever. I would've made it more obvious what had to be done to open the door and made it a challenge.
 
 >This room has a rotating metal cylinder that serves as a bridge between two doors. Underneath the cylinder there is a pit filled with gas and the cylinder, when rotating, generates sparks that might set the gas aflame
+
 **(GOOD)** A trap that is not hidden but actually in plain sight. The players can evaluate all of their choices and formulate a plan of action. All the mistakes in the plan will be completely on them.
 
 >The door to this room is trapped. Opening the door snaps a tripwire that sets off a rusty light crossbow mounted on the north wall (damage 1d6). The crossbow has a 2 in 6 chance to misfire. Alcoves line the walls. This room has been hastily searched.
+
 **(BAD)** While teaching and showing that some traps have to actually be hidden because that's their whole purpose, a random dart that does 1d6 potentially killing a player is too much. Make it always misfire the first time, lower the damage, transform the crossbow into a trap that makes noise attracting nearby monsters and it becomes a way more effective lesson. 
 
 >This dusty chamber contains a variety of desks, chairs, tables, stools, benches, and racks, as well as a number of framed paintings, piled in the center of the room. This room also contains a potentially deadly trap. Any character walking normally into the room will raise a cloud of fine dust. (Taking care to walk slowly will allow this to be avoided.) If this happens  then anyone who enters carrying a lit torch or lantern will ignite the dust, creating a fireball-like effect. All within 20’ of the ignition source will take 2d6 points of fire damage immediately
+
 **(VERY BAD)** This was supposed to be a level 1 dungeon room and the 13th in order of visit. I legimately stopped prepping this adventure after reading this because it feels one big "fuck you" to everyone but the paranoid player that can read the DM's mind. Don't do this. 
 
 ![Tome](/images/tome.jpg)
