@@ -18,7 +18,7 @@ Someone will tell you D&D is a cooperative storytelling effort, others will tell
 
 * **Combat:** Combat is unfun, and it's not the DMs fault. The problem with it is that it's too long and tedious after the first few turns. You just declare your attack, roll the dice, get crazy 'cause you rolled a 20 and wait for your next turn hoping you don't die. Oh no actually, you wait for your next turn hoping that if you drop down your healer has some healing spells.
 
-* **Roleplaying:** This is something not intrinsic in 5th edition's rules but its something WOTC's D&D helped popularize. I'm not about roleplaying in a **roleplaying** game of course, but lately the game became Improv 101 where everyone feels the new Tolkien and George Martin. I shouldn't have to listen about your backstory for 10 minutes, roleplaying should be something that happens naturally as you react to the environment as your character would do.
+* **Roleplaying:** This is something not intrinsic in 5th edition's rules but its something WOTC's D&D helped popularize. I'm not against roleplaying in a **roleplaying** game of course, but lately the game became Improv 101 where everyone feels the new Tolkien and George Martin. I shouldn't have to listen about your backstory for 10 minutes, roleplaying should be something that happens naturally as you react to the environment as your character would do.
 
 * **Exploration:** 5th edition largely ignores Encumbrance rules, there's no strict time keeping, no one keeps tracks of arrows and rations. People find it cumbersome and then they complain that exploration and hex crawling feels boring. Go figure!
 
