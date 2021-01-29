@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First Level Dungeons
+title: First Levels Dungeons
 ---
 
 ![Header](/images/dungeon_header.jfif)
