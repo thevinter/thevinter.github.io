@@ -8,7 +8,7 @@ permalink:           pretty
 title:               Dragon's Lair
 tagline:             'My Personal D&D Lair'
 description:         'A site for D&D enthusiasts, by a D&D enthusiast'
-url:                 https://thevinter.github.io/dragonsden
+url:                 https://thevinter.github.io
 baseurl:             ''
 paginate:            5
 
