@@ -38,9 +38,9 @@ Nicholas hesitated for a few instants but then realized he had no other choice a
   margin: 1.5em 10px;
   padding: 0.5em 10px;">
 <b>Nicholas "Fury" Hopton</b>
-</br></br>
+<br><br>
 Level 1 Fighter
-</br></br>
+<br><br>
 STR: 15 (+1)</br>
 DEX: 12 (0)</br>
 CON: 13 (+1)</br>
@@ -67,5 +67,4 @@ Light Fire: 2/6</br>
 Hunt/Forage 1/6</br>
 </br></br>
 <b>Inventory:</b> None</br>
-
 </div>
