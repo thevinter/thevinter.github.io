@@ -18,7 +18,10 @@ Sometimes I will also interrupt the story to explain some homebrew rules I imple
 
 
 <button title="Click to show/hide content" type="button" onclick="if(document.getElementById('spoiler') .style.display=='none') {document.getElementById('spoiler') .style.display=''}else{document.getElementById('spoiler') .style.display='none'}">Spoiler</button>
-<div id="spoiler" style="display:none">
+<div id="spoiler" style="display:none background: #f9f9f9;
+  border-left: 10px solid #ccc;
+  margin: 1.5em 10px;
+  padding: 0.5em 10px;">
 >For example I will be using the optional OSE rule for AAC since I think it makes combat easier to follow
 </div>
 
