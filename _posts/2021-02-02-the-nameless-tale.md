@@ -22,7 +22,7 @@ Sometimes I will also interrupt the story to explain some homebrew rules I imple
   border-left: 10px solid #ccc;
   margin: 1.5em 10px;
   padding: 0.5em 10px;">
->For example I will be using the optional OSE rule for AAC since I think it makes combat easier to follow
+For example I will be using the optional OSE rule for AAC since I think it makes combat easier to follow
 </div>
 
 
