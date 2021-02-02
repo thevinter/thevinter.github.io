@@ -38,34 +38,34 @@ Nicholas hesitated for a few instants but then realized he had no other choice a
   margin: 1.5em 10px;
   padding: 0.5em 10px;">
 <b>Nicholas "Fury" Hopton</b>
-
+</br></br>
 Level 1 Fighter
-
-STR: 15 (+1)
-DEX: 12 (0)
-CON: 13 (+1)
-INT: 7 (-1)
-WIS: 9 (0)
-CHAR: 5 (-2)
-
-AAC: 0
-HP: 9/9
-
-<b>SAVES:</b>
-Death: 12
-Wand: 13
-Paralysis: 14
-Breath: 15
-Magic: 16
-
-<b>Skills:</b>
-Hear Noise: 1/6
-Find Door: 1/6
-Open Door: 1/6
-Find Trap: 1/6
-Light Fire: 2/6
-Hunt/Forage 1/6
-
-<b>Inventory:</b> None
+</br></br>
+STR: 15 (+1)</br>
+DEX: 12 (0)</br>
+CON: 13 (+1)</br>
+INT: 7 (-1)</br>
+WIS: 9 (0)</br>
+CHAR: 5 (-2)</br>
+</br></br>
+AAC: 0</br>
+HP: 9/9</br>
+</br></br>
+<b>SAVES:</b></br>
+Death: 12</br>
+Wand: 13</br>
+Paralysis: 14</br>
+Breath: 15</br>
+Magic: 16</br>
+</br></br>
+<b>Skills:</b></br>
+Hear Noise: 1/6</br>
+Find Door: 1/6</br>
+Open Door: 1/6</br>
+Find Trap: 1/6</br>
+Light Fire: 2/6</br>
+Hunt/Forage 1/6</br>
+</br></br>
+<b>Inventory:</b> None</br>
 
 </div>
