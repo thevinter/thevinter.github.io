@@ -4,23 +4,6 @@ title: The Nameless Tale - Episode 0
 ---
 
 
-<script>
-var coll = document.getElementsByClassName("collapsible");
-var i;
-
-for (i = 0; i < coll.length; i++) {
-  coll[i].addEventListener("click", function() {
-    this.classList.toggle("active");
-    var content = this.nextElementSibling;
-    if (content.style.maxHeight){
-      content.style.maxHeight = null;
-    } else {
-      content.style.maxHeight = content.scrollHeight + "px";
-    }
-  });
-}
-</script>
-
 Hello, and welcome. Thanks for taking the time to read this, I hope you'll find enjoyement in it.
 
 
@@ -33,8 +16,13 @@ This will be first and foremost a tale, a story. As such, to not clutter the nar
 
 Sometimes I will also interrupt the story to explain some homebrew rules I implemented or the reasoning behind my choices. When the tooltip space will not be enough I will use Spoiler Tags. Simply press on them to read their contents.
 
+<div id="spoiler" style="display:none">
+3
+HIDDEN CONTENT HERE
+4
+</div>
 
-
+<button title="Click to show/hide content" type="button" onclick="if(document.getElementById('spoiler') .style.display=='none') {document.getElementById('spoiler') .style.display=''}else{document.getElementById('spoiler') .style.display='none'}">Show/hide</button>
 
 I have created four characters and you will meet them in the first episode of the series.
 
