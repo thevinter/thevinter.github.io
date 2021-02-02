@@ -29,7 +29,7 @@ He scrolled his head, it wasn't the time to think about that. He had to decide h
 
 Nicholas hesitated for a few instants but then realized he had no other choice and stepped forward
 
-*"No need to, am coming out"* he said, as he was exiting, completely naked, his hiding spot.
+*"No need to, am coming out"* he said, as he was exiting, completely naked, from his hiding spot.
 
 
 <button title="Click to show/hide content" type="button" onclick="if(document.getElementById('spoiler') .style.display=='none') {document.getElementById('spoiler') .style.display=''}else{document.getElementById('spoiler') .style.display='none'}">Spoiler</button>
