@@ -51,7 +51,7 @@ CHAR: 5 (-2)<br>
 AAC: 0<br>
 HP: 9/9<br>
 <br><br>
-<b>Saves:<br><br>
+<b>Saves:</b><br><br>
 Death: 12<br>
 Wand: 13<br>
 Paralysis: 14<br>
