@@ -94,10 +94,10 @@ h1, h2, h3, h4, h5, h6 {
   /* Position the tooltip text - see examples below! */
   position: absolute;
   z-index: 1;
-  width: 120px;
+  width: 160px;
   bottom: 100%;
   left: 50%;
-  margin-left: -60px; /* Use half of the width (120/2 = 60), to center the tooltip */
+  margin-left: -80px; /* Use half of the width (120/2 = 60), to center the tooltip */
 }
 
 /* Show the tooltip text when you mouse over the tooltip container */
