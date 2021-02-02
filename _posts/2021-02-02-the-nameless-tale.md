@@ -2,7 +2,28 @@
 layout: post
 title: The Nameless Tale - Episode 0
 ---
+
+
+<script>
+var coll = document.getElementsByClassName("collapsible");
+var i;
+
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.maxHeight){
+      content.style.maxHeight = null;
+    } else {
+      content.style.maxHeight = content.scrollHeight + "px";
+    }
+  });
+}
+</script>
+
 Hello, and welcome. Thanks for taking the time to read this, I hope you'll find enjoyement in it.
+
+
 
 The Nameless Tale is an experiment, a weird test that might be fun or might be not. It's a writing excercise where most of the actions and the outcome of the story are decided by the whims of the dice. There is no predetermined path, no giant plot and no immortal characters. It's kind of a solo roleplay game where I transform into text everything that happens and try to make it fun for you to read. All the rolls will be public and, since they can't be live for obvious reasons, you'll have to trust me about them. 
 
@@ -13,12 +34,7 @@ This will be first and foremost a tale, a story. As such, to not clutter the nar
 Sometimes I will also interrupt the story to explain some homebrew rules I implemented or the reasoning behind my choices. When the tooltip space will not be enough I will use Spoiler Tags. Simply press on them to read their contents.
 
 
-<input class="spoilerbutton" type="button" value="Show" onclick="this.value=this.value=='Show'?'Hide':'Show';">
-<div class="spoiler">
-  <div>
-  	For example I will be using the optional AAC rule from OSE since I feel that it makes battles easier to understand for readers!
-  </div>
-</div>
+
 
 I have created four characters and you will meet them in the first episode of the series.
 
