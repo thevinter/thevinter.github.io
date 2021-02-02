@@ -16,13 +16,12 @@ This will be first and foremost a tale, a story. As such, to not clutter the nar
 
 Sometimes I will also interrupt the story to explain some homebrew rules I implemented or the reasoning behind my choices. When the tooltip space will not be enough I will use Spoiler Tags. Simply press on them to read their contents.
 
+
+<button title="Click to show/hide content" type="button" onclick="if(document.getElementById('spoiler') .style.display=='none') {document.getElementById('spoiler') .style.display=''}else{document.getElementById('spoiler') .style.display='none'}">Spoiler</button>
 <div id="spoiler" style="display:none">
-3
-HIDDEN CONTENT HERE
-4
+For example I will be using the optional OSE rule for AAC since I think it makes combat easier to follow
 </div>
 
-<button title="Click to show/hide content" type="button" onclick="if(document.getElementById('spoiler') .style.display=='none') {document.getElementById('spoiler') .style.display=''}else{document.getElementById('spoiler') .style.display='none'}">Show/hide</button>
 
 I have created four characters and you will meet them in the first episode of the series.
 
