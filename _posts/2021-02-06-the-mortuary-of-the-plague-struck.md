@@ -5,14 +5,14 @@ title: Area 1 - The Mortuary Of the Plague-Struck
 I finally started mappning my map and got to do the first Area. It doesn't have (at the moment) meaningful NPC interactions and will probably be tweaked in the future but I think it conveys the general feel of the dungeon in a decent way. Feel free to steal it.
 
 
-## Backstory
+# Backstory
 The hidden colony was actually a colony of refugees from the nearby city prison of St.Barbara. The city was pillaged by pirates to free one of their leaders and the other prisoners managed to escape via small boats once the main walls were destroyed. This meant that around 200 prisoners, both men and women found themselves in perilous waters for 2 days before finally reaching the island of Layanaka. Knowing that they would be chased the prisoners started excavating a hidden town inside one of the mountains, hoping that one day their crimes and their faces would be forgotten. Sadly that never happened. After only a few months one of the women discovered a purple plant that had relaxing properties: people would be able to forget about their troubles and live a less stressful life in the colony. In less than a month everyone was consuming this plant on a daily basis. Then tragedy struck: little was known to them is that the plant had small parasites feasting on its leaves, parasites that got ingested during the meals and slowly started to grow until, one day, they started leaving the bodies of its inhabitants, dismembering them from the inside and taking ownership over the colony. 
 
 ![Map](https://i.imgur.com/pfLt6Ix.png)
 
 ## Area 1: 1-15 The Mortuary Of the Plague-Struck
 
-1. A big room, old cloaks and jackets are hung on the eastern wall. The walls and the floor are covered in a purple powder. 	
+1. A big room with old cloaks and jackets hung on the eastern wall. The walls and the floor are covered in purple powder. 	
 2. This room has rotten table a cabinet that contains a diary that contains the story of a man that escaped from St.Barbara and saw his loved one die in the waters.
 3. This room is empty except for some barrels, now laying on the floor.
 4. A giant distillery is present in this room, its floor is now covered in a purple mush made of rotten plants. Rotten purple plants can be found also in barrels. The distillery was used to produce a drink from the Phymes. The machine can be repaired in 1d4 days if a character is knowledgeable enough. The plant can be found outside of the dungeon and the effects of ingesting the drink will be described in a later post.
