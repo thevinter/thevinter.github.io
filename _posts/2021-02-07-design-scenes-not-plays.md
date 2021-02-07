@@ -2,7 +2,7 @@
 layout: post
 title: Design Scenes, Not Plays!
 ---
-One of the key tenets of the OSR playstyle is to never railroad the players. They're not there to "play" your fantasy book and make some rolls. They're not to play a Choose Your Own Adventure either. Their actions should have consequences instead of having a ![Quantum Ogre](https://hackslashmaster.blogspot.com/2011/09/on-how-illusion-can-rob-your-game-of.html) in every room. I would like to expand this concept a bit further and provide a simple yet elegant solution to avoid this kind of problems.
+One of the key tenets of the OSR playstyle is to never railroad the players. They're not there to "play" your fantasy book and make some rolls. They're not to play a Choose Your Own Adventure either. Their actions should have consequences instead of having a [Quantum Ogre](https://hackslashmaster.blogspot.com/2011/09/on-how-illusion-can-rob-your-game-of.html) in every room. I would like to expand this concept a bit further and provide a simple yet elegant solution to avoid this kind of problems.
 
 The first solution is, of course, to not design plots. If you don't have a start and an ending there's nothing to guide your players trough and no need for unkillable NPCs and obligatory encounters. But let's assume we're past this problem. We're now in OSR territory and everyone has his own shiny hexcrawl with stuff to do, lots of dungeons and player agency. Are we free from any kind of problems? No. 
 
