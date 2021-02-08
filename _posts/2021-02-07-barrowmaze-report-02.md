@@ -21,10 +21,10 @@ Next are some DM considerations and spoilers that I'm gonna put under a spoiler 
   margin: 1.5em 10px;
   padding: 0.5em 10px;">
 First of all I still have to decide if I want saving rolls for traps or not. The first one got triggered and luckily it turned out to be a monster one, but it could've been a bottomles one! I'm not sure I like "gotcha" traps like that that don't even allow saves. 
-
+<br>
 Secondly I tweaked some of the restock numbers. I'm ok with the dungeon being alive and persistent, but if following the book RAW a lot of beginning zones become a "hack and slash" excercise of patience with little to no progress. For example I was supposed to have 4 restocked rooms instead of only one when they fought the guardian. That woul've meant half an hour with no progress.
-
+<br>
 They still haven't met the Mongrelmen properly and they're always like one door away from some meaningful roleplay but I hope they'll meet them soon. I never actually introduced them to proper faction play. 
-
+<br>
 And lastly a general consideration about the players. I found it really amusing to see how Cavell went inside the opened room even after Gaspàrd died, and wanted to even open the sarcophagus contained inside. That would've meant risking the entire adventure just for getting some loot sooner. This is a curious phenomenon in my opinion and one that really taps into the whole Risk vs Reward concept of dungeons. Let's be real, once you're high enough level and have enough coinage to justify sleeping in taverns for years there's really no reason to push your luck for "just one more door", yet people still do it. Fascinating!  
 </div>
