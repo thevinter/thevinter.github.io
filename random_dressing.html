@@ -1,0 +1,27 @@
+<input id="Generate A Random Room" type="button" value="Generate A Random Room" onclick="roll();"/>
+
+<script type="text/javascript">
+	function roll(){
+		var diceRoll = Math.floor( Math.random() * 6 ) +1;
+		var treasureRoll = Math.floor( Math.random() * 6 ) +1;
+		switch(diceRoll){
+			case 1:
+			case 2:
+				if(treasureRoll == 1)alert('You rolled an empty room with some treasure');
+				else alert('You rolled an empty room');
+				break;
+			case 3:
+			case 4:
+				if(treasureRoll < 3) alert('You rolled an monster room with some treasure');
+				else alert('You rolled a monster room');
+				break;
+			case 5:
+				alert('You rolled a special room');
+				break;
+			case 6:
+				if(treasureRoll < 2)alert('You rolled an trap room with some treasure');
+				else alert('You rolled a trap room');
+				break;
+		}
+	}
+</script>
