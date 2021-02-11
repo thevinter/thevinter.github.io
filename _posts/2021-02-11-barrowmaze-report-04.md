@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Many Deaths Of Barrowmaze - Part 3
+title: The Many Deaths Of The Barrowmaze - Part 4
 ---
 
 ![Header](https://i.imgur.com/rNrtZmU.jpeg)
