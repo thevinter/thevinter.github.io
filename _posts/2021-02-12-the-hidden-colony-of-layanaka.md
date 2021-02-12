@@ -117,8 +117,11 @@ Those are supposed to be some sorts of living quarters for the prisoners. As usu
 ## Area Three: 33-38: The Ways Of Knowledge
 
 **33** - The tree different areas have shafts extending out to the surface. Red and purple vines crawl down the walls, the sun not visible probably covered by foliage. Every area has a giant statue, 10ft high. Every statue has a mask, big as a man, that, when removed, reveals an open area behind it. Taking off each mask is hard but can be done by climbing on the statue's back and removing the big iron locks.
+
 	A - Hideous face with no mouth or nose and with 20 eyes. Behind is an a group of 28 **Gorbels** *(AC3(10\*)/2HD/19THAC0/120'/1xExplosion 1d6 or 1xClaw 1d4)* they will fall into the room as soon as the mask is removed and escape into other rooms of the dungeon. Replace the bat encounter in the Random Encounters table with 1d6 Gorbels.
+
 	B - A feline mask with real tiger teeth. A giant **Gas Spore** lingers in the area. Every PC that enters the head will mistake it for a Beholder.
+	
 	C - A completely black mask. The insides of the head are filled to the brim by mouths that will start screaming as soon as the mask is removed. Inbetween the mouths are precious gems that can be removed (3 gems worth 100gp e.a. every 10 minutes but roll two extra Random Encounter Checks. A total of 15 gems).
 
 **34** - This room is completely red. Art pieces are hanging on the wall, some of them are destroyed others still preserved. They're protected by a magical field that permeates the room so taking them outside will prove almost impossible. There is a set of stairs that leads nowhere, a painting of an empty 10ft. white room that can actually can be entered and an image of a blue and white circle cold to the touch. In the middle of the room stands a **Metal Warrior** *(AC4/3HD/17THAC0/50'/2xSword 1d6)*, a small humanoid made out of metal that served both as a critic and a guardian for the gallery. As soon as the PCs enter he will activated and, in a broken state, will start asking opinions about the art pieces. If the party leaves without giving a satisfactory answer he will attack.
@@ -154,7 +157,7 @@ Those are supposed to be some sorts of living quarters for the prisoners. As usu
 	B - Phyne Flowers - Can be distilled into a tranquilizing but deadly drink. If inspected closely some miniscule blue worms can be seen
 
 	C - Soer Vines - Hideous fleshy vines, they smell horribly and sting if touched
-	
+
 	D - Blachids - The smell of this flower is deadly. Anyone getting close must Save vs Poison or take 1d6 damage and vomit for 1 turn. If a second save is failed then the character dies. Inside the bulb of the flowers small gems grow that are worth 500gp e.a. (4 total)
 
 **46** - The ceiling of this room is an endless night. Red orchids grow on the floor, reaching almost 1 feet of height. 
