@@ -148,9 +148,13 @@ Those are supposed to be some sorts of living quarters for the prisoners. As usu
 **44** - This room is empty and holds ruined gardening supplies and rotten seeds. 
 
 **45** - This is a Hydrophonics Greenhouse where different flowers grow.
+
 	A - Orifax Blooms - Red flowers that smeel of blood and feel wet to the touch
+
 	B - Phyne Flowers - Can be distilled into a tranquilizing but deadly drink. If inspected closely some miniscule blue worms can be seen
+
 	C - Soer Vines - Hideous fleshy vines, they smell horribly and sting if touched
+	
 	D - Blachids - The smell of this flower is deadly. Anyone getting close must Save vs Poison or take 1d6 damage and vomit for 1 turn. If a second save is failed then the character dies. Inside the bulb of the flowers small gems grow that are worth 500gp e.a. (4 total)
 
 **46** - The ceiling of this room is an endless night. Red orchids grow on the floor, reaching almost 1 feet of height. 
