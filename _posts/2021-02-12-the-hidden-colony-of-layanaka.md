@@ -26,15 +26,14 @@ Roll| Column
 12  | Roll Twice  
 
 ### Atriel's Influence
-```
-Whenever this result is rolled roll 1d6.
-1 - The character start seeing blue for 1d6 turns
-2 - Everyone sees small maggots crawling upon their skin. It turns out to be an illusion
-3 - A vision of a blue trone appears in front of the PCs
-4 - The characters feel like their throat is burning and bleeding and will have to scream. Check for encounters
-5 - The illusion of a blue flower manifests in front of the players. It will keep getting closer and closer and disappear after 3 seconds.
-6 - One random player will feel stronger and he will automatically hit his next attack
-```
+
+>Whenever this result is rolled roll 1d6.
+>1 - The character start seeing blue for 1d6 turns
+>2 - Everyone sees small maggots crawling upon their skin. It turns out to be an illusion
+>3 - A vision of a blue trone appears in front of the PCs
+>4 - The characters feel like their throat is burning and bleeding and will have to scream. Check for encounters
+>5 - The illusion of a blue flower manifests in front of the players. It will keep getting closer and closer and disappear after 3 seconds.
+>6 - One random player will feel stronger and he will automatically hit his next attack
  
 
 ## Area 1: 1-15 The Mortuary Of the Plague-Struck
