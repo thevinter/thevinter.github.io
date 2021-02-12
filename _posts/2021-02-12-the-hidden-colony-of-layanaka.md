@@ -121,7 +121,7 @@ Those are supposed to be some sorts of living quarters for the prisoners. As usu
 	A - Hideous face with no mouth or nose and with 20 eyes. Behind is an a group of 28 **Gorbels** *(AC3(10\*)/2HD/19THAC0/120'/1xExplosion 1d6 or 1xClaw 1d4)* they will fall into the room as soon as the mask is removed and escape into other rooms of the dungeon. Replace the bat encounter in the Random Encounters table with 1d6 Gorbels.
 
 	B - A feline mask with real tiger teeth. A giant **Gas Spore** lingers in the area. Every PC that enters the head will mistake it for a Beholder.
-	
+
 	C - A completely black mask. The insides of the head are filled to the brim by mouths that will start screaming as soon as the mask is removed. Inbetween the mouths are precious gems that can be removed (3 gems worth 100gp e.a. every 10 minutes but roll two extra Random Encounter Checks. A total of 15 gems).
 
 **34** - This room is completely red. Art pieces are hanging on the wall, some of them are destroyed others still preserved. They're protected by a magical field that permeates the room so taking them outside will prove almost impossible. There is a set of stairs that leads nowhere, a painting of an empty 10ft. white room that can actually can be entered and an image of a blue and white circle cold to the touch. In the middle of the room stands a **Metal Warrior** *(AC4/3HD/17THAC0/50'/2xSword 1d6)*, a small humanoid made out of metal that served both as a critic and a guardian for the gallery. As soon as the PCs enter he will activated and, in a broken state, will start asking opinions about the art pieces. If the party leaves without giving a satisfactory answer he will attack.
@@ -150,7 +150,7 @@ Those are supposed to be some sorts of living quarters for the prisoners. As usu
 
 **44** - This room is empty and holds ruined gardening supplies and rotten seeds. 
 
-**45** - This is a Hydrophonics Greenhouse where different flowers grow.
+**45** - This is a Hydrophonic Greenhouse where different flowers grow.
 
 	A - Orifax Blooms - Red flowers that smeel of blood and feel wet to the touch
 
