@@ -2,7 +2,7 @@
 layout: post
 title: Area 1 - The Mortuary Of the Plague-Struck
 ---
-I finally started mappning my map and got to do the first Area. It doesn't have (at the moment) meaningful NPC interactions and will probably be tweaked in the future but I think it conveys the general feel of the dungeon in a decent way. Feel free to steal it.
+I finally started mapping my map and got to do the first Area. It doesn't have (at the moment) meaningful NPC interactions and will probably be tweaked in the future but I think it conveys the general feel of the dungeon in a decent way. Feel free to steal it.
 
 
 # Backstory
