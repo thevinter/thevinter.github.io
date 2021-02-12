@@ -14,7 +14,7 @@ They retreat to Helix and spend the night there, just to plunge into the depths 
 ![Map](https://i.imgur.com/RjZAV0D.png) 
 
 The north-west crypt contains a sarcophagus, and usually that means undead. That's exactly what they were expecting and exactly 
-what happened. A giant rotting undead with larvae coming out of its eyes awoke from its slumber and got out of the crypt. Once again the players got extremely lucky: the first hit randomly hit a nearby creature and the dice decided for it to be Cordoon. The zombie raised its fist in the air and hit the Dwarf for 5hp killing him on the spot (r.i.p 2nd henchman), and that was the first of a total of two fights he managed to hit. The second hit Morcar but only for 3 damage and it didn't cause serious problems.
+what happened. A giant rotting undead with larvae coming out of its eyes awoke from its slumber and got out of the crypt. Once again the players got extremely lucky: the first hit randomly hit a nearby creature and the dice decided for it to be Cordoon. The zombie raised its fist in the air and hit the Dwarf for 5hp killing him on the spot (r.i.p 2nd henchman), and that was the first of a total of two fights he managed to hit. The second hit Cavell but only for 3 damage and it didn't cause serious problems.
 
 I expected this fight to be more problematic for the party but it resolved extremely well, the dice gods were with them today. After looting the sarchopagus and getting a Gold Necklace (2100gp!) they decided to head back to Helix.
 
