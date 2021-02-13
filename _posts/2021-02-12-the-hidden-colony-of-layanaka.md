@@ -18,9 +18,9 @@ Roll| Column
 4   | Screaming Hummingbird (1) 
 5   | Bat (1d10) 
 6	| Atriel's Influence  
-7   | Cell  
-8   | Cell  
-9   | Cell  
+7   | Dead Carillon (1d4)  
+8   | Rudus (see Area 27)  
+9   | Whirling Mist (1d4)  
 10  | Killer Bee (2d4)  
 11  | Referee's Choice  
 12  | Roll Twice  
@@ -35,7 +35,7 @@ Whenever this result is rolled roll 1d6.
 5 - The illusion of a blue flower manifests in front of the players. It will keep getting closer and closer and disappear after 3 seconds.
 6 - One random player will feel stronger and he will automatically hit his next attack
 ```
- 
+
 
 ## Area 1: 1-15 The Mortuary Of the Plague-Struck
 
