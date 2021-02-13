@@ -60,6 +60,8 @@ Whenever this result is rolled roll 1d6.
 The players might learn about the tranquilizing effects of the Phyne Tea and might want to try to brew it themselves. If that happens Phyne flowers are present on the island and inside the dungeon. Drinking the Tea will make whoever consumes it immune to Fear and Paralysis for 1d6 hours. The effect can be acquired multiple times and doesn't have any drawbacks but, once the tea is drank whoever ingested it becomes infested with Parasites. The infection doesn't manifest for 2 weeks. After that the body will start itching and the venes will pulsate during the day. After 4 more days fever and vomit will begin and the player will have to be bedridden. 3 weeks after drinking it the PC will fall into a coma and the next day 1d4 Phyne Worms will come out of his dead body.
 ```
 
+![Room](https://i.imgur.com/tmSXE92.png)
+
 ## Area 1: 1-15 The Mortuary Of the Plague-Struck
 
 **1** - A big room with old cloaks and jackets hung on the eastern wall. The walls and the floor are covered in purple powder. 
