@@ -5,9 +5,9 @@ permalink:           pretty
 # relative_permalinks: true
 
 # Setup
-title:               Dragon's Lair
-tagline:             'My Personal D&D Lair'
-description:         'A site for D&D enthusiasts, by a D&D enthusiast'
+title:               Level Drain
+tagline:             'You're here forever'
+description:         'An OSR trove od bad ideas'
 url:                 https://thevinter.github.io
 baseurl:             ''
 paginate:            5

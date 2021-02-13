@@ -3,12 +3,6 @@ layout: page
 title: About This Site
 ---
 
-![Header](/images/header_about.jpg)
+![Header](https://blobcdn.same.energy/d/d2/a9/d2a9747294df5626c6092719c4c07ab33291fa31)
 
-My name is **Nik Vinter** and i've been a DM for more than 5 years already. I'm interested in OSR, homebrewing and running official **Dungeons & Dragons** content.
-
-In this site you'll find articles, reviews and homebrews for monsters. As well as tools i've developed to help you DMing your games. I hope you stick around and find something useful.
-
-All the material in here is, and will always be **free**. 
-
-Have fun on my website!
+I'm a dumb fuck that mostly writes OSR content and philosophical considerations
