@@ -10,6 +10,12 @@ The hidden colony was actually a colony of refugees from the nearby city prison 
 
 <!--more--> 
 
+# The Village Of Agador
+On the island, 5 hours from the Colony trough the jungles of St.Barbara, lies a small village. Agador is reachable by boat from the nearby City Port of Victoria. There are 200 inhabitants, all human, with some dwarf sometimes passing by. There are no relevant landmarks except for the Lonely Shark tavern ran by Eralda, a dark skinned woman with curly hair. Players can buy provisions at the West Trading Post and there's also a mage named Plin that resides in one of the houses. He's tasked with helping the guards to cleanse parts of the jungle for a rapid colonization but he'll agree to Identify Magic items for a reasonable price. 
+
+# General Description
+The area is vibrant and deadly. Corridors hold dead corpses and blue blood and plants. The whole colony collapsed when the first worms started appearing and the panic took over the corridors. Barricades were erected to keep out the undead and they can be found even to this day in some of the passages. Even if not specified most of the rooms contain small plants growing from the cracks and blood on the floor. The doors are wooden with no distinctive features and all of them are open. There is no light anywhere, but the corridors hold spots for torches, that are empty.
+
 # Random Encounter Table
 
 Roll| Column
@@ -53,7 +59,7 @@ The players might learn about the tranquilizing effects of the Phyne Tea and mig
 
 **4** - A giant distillery is present in this room, its floor is now covered in a purple mush made of rotten plants. Rotten purple plants can be found also in barrels. The distillery was used to produce a drink from the Phymes. The machine can be repaired in 1d4 days if a character is knowledgeable enough. The plant can be found outside of the dungeon and the effects of ingesting the drink will be described in a later post.
 
-**5** - This place was once a small amphiteatre, now with ruined seats. If a player stands on the scene some **Dancing Lights** will appear encouraging the player to perform. The dm should encourage the player to roleplay something in character and if the exhibition is deemed appropriate then the PC will receive the **Bless** effect for *1d6*turns. Otherwhise a zapping sound will be heard and the PC will be hit by a small lightning for *1d4* damage.
+**5** - This place was once a small amphiteatre, now with ruined seats. If a player stands on the scene some **Dancing Lights** will appear encouraging the player to perform. If a PC performs and the exhibition is deemed appropriate then the PC will receive the **Bless** effect for *1d6*turns. Otherwhise a zapping sound will be heard and the PC will be hit by a small lightning for *1d4* damage.
 
 **6** - 4 prisoners have risen as undeads, controlled by parasites in their corpses. Their skin is of a blue tint and small holes tatter their bodies. Stat as **Zombie** *(AC8/2HD/9,7,7,4/18THAC0/60'/1xClaw 1d8)* but when dead there's *1d6* chance that the **Parasite** *(AC9/2HP(1/2HD)/19THAC0/120'/Bite save vs Poison or become infected after 1d8 hours unless cured)* will escape the corpse to try and find another dead body to inhabit.
 
