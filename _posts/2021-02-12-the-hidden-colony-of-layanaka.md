@@ -11,7 +11,18 @@ The hidden colony was actually a colony of refugees from the nearby city prison 
 <!--more--> 
 
 # The Village Of Agador
-On the island, 5 hours from the Colony trough the jungles of St.Barbara, lies a small village. Agador is reachable by boat from the nearby City Port of Victoria. There are 200 inhabitants, all human, with some dwarf sometimes passing by. There are no relevant landmarks except for the Lonely Shark tavern ran by Eralda, a dark skinned woman with curly hair. Players can buy provisions at the West Trading Post and there's also a mage named Plin that resides in one of the houses. He's tasked with helping the guards to cleanse parts of the jungle for a rapid colonization but he'll agree to Identify Magic items for a reasonable price. 
+On the island, 5 hours from the Colony trough the thick jungles, lies a small village. Agador is only reachable by boat from the nearby City Port of Victoria. There are 200 inhabitants, all human, with some dwarves sometimes passing by. There are no relevant landmarks except for the Lonely Shark tavern ran by Eralda: a dark skinned woman with curly hair that likes to curse. Players can buy provisions at the West Trading Post and there's also a mage named Plin that resides in one of the houses. He's tasked with helping the guards to cleanse parts of the jungle for a rapid colonization but he'll agree to Identify Magic items for a reasonable price. 
+
+![Agador](https://i.imgur.com/tmPr7fr.jpeg)
+
+# Reasons For Adventuring
+**Treasure**: The players have heard legends of the lost Colony and of its downfall. The tales are murky and it's not clear what happened but it's been probably untouched for decades so all of the treasure is still there!
+
+**Explorations**: Felios, a grumpy man and the mayor of Agador hired a force of mercenaries to go and explore some strange ruins that the explorers have found in the eastern part of the island. He will pay 1000gp for a map of the place and an assesment of its conditions.
+
+**Family Ties**: The prisoners had families, and some familiars might want to learn of the fate of their loved ones. One (or more) of the PCs could have blood ties with some of the old inhabitants and would like to learn more about what happened to them.
+
+**Trade**: Ertell, from the Ertell's Trading Company has heard about a Tea with magical properties that the inhabitants of the colony knew how to brew (See "Phyne Tea" sidebar). He will pay 400gp for its recipe and 400gp more for a sample. The recipe can be found in Area 44 and the tea can be made in Area 4
 
 # General Description
 The area is vibrant and deadly. Corridors hold dead corpses and blue blood and plants. The whole colony collapsed when the first worms started appearing and the panic took over the corridors. Barricades were erected to keep out the undead and they can be found even to this day in some of the passages. Even if not specified most of the rooms contain small plants growing from the cracks and blood on the floor. The doors are wooden with no distinctive features and all of them are open. There is no light anywhere, but the corridors hold spots for torches, that are empty.
@@ -160,7 +171,7 @@ Those are supposed to be some sorts of living quarters for the prisoners. As usu
 
 **43** - 3 **Blue Zombies** can be found here (see Area 4). Purple flowers grow out of their skin. Whenever those zombies are hit there's a 30% chance that the flowers will release a cloud of spores incapacitating everyone next to the zombie for 1 round.
 
-**44** - This room is empty and holds ruined gardening supplies and rotten seeds. 
+**44** - This room is empty and holds ruined gardening supplies and rotten seeds as well as a book with the recipe for making Phyne Tea. 
 
 **45** - This is a Hydrophonic Greenhouse where different flowers grow.
 
