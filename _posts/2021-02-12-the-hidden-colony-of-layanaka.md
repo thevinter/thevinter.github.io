@@ -29,7 +29,7 @@ The area is vibrant and deadly. Corridors hold dead corpses and blue blood and p
 
 # Random Encounter Table
 
-Roll| Column
+Roll| Result
 ----| ------
 1   | Phyne Worm (1d6)  
 2   | Blue Zombie (1d6)  
