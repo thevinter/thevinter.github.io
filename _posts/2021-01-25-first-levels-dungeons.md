@@ -8,6 +8,8 @@ title: First Levels Dungeons
 # The Problem With The First Level
 I've played many OSR games, a lot of them never went past trough the first levels so that means I have a good experience with low level play and bad experience with higher tiers. I also played with various players, some more used to OSR play than others. There is one key problem that frustrates a lot of people, both old and new and it's the **low starting HP**. Yes sure, deadly games are part of the OSR mythos and players aren't supposed to fight, they're supposed to survive and find clever solutions to combat, but sometimes dungeon is just inevitable and I would like to spend a few lines talking about how to optimize the first rooms of every dungeon.
 
+<!--more--> 
+
 # Design Principles 
 If you've ever played Dark Souls you know how you can get to the skeleton area as soon as you reach the first HUB. It has great loot and XP but it's hard, very hard if you're a low level player. That zone is good from a game design standpoint for three reasons: 
 

@@ -9,6 +9,8 @@ title: Make Them Draw
 
 One core principle in my games is that I insist on making my players draw their own maps with me just describing them. Am I a sadist? Probably, but that's besides the point. Map drawing should be present in every game and here's why:
 
+<!--more--> 
+
 It adds 5 layers of depth to the gameplay that you would otherwise miss.
 
 1. **Item management:** Paper is fragile and gets wet, you can lose your map, you can lose your ink. Drawing maps forces your players to care about stuff like this. Crossing a river is now more of a challenge because you don't want to ruin your drawings.

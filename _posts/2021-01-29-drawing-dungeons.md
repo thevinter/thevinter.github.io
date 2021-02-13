@@ -1,12 +1,14 @@
 ---
 layout: post
-title: Drawing Dungeons
+title: Drawing dungeons
 ---
 
 ![Header](https://i.imgur.com/kCmsagW.png)
 
 # How To Draw A Dungeon In Photoshop
-I know, many of my posts lately have been about dungeons (and many more will follow) but I'm currently designing one for my players so you'll have to bear with me. This post wants to be a small guide on how to easily draw a dungeon in photoshop even without a drawing tablet.
+I know, many of my posts lately have been about dungeons (and many more will follow) but I'm currently designing one for my players so you'll have to bear with me. This post wants to be a small guide on how to easily draw a dungeon in photoshop even without a drawing tablet
+
+<!--more--> .
 
 # Step By Step
 First of all you'll need a sketch. I did myself direcly on photoshop but you can do it on a piece of paper and then simply import the image into PS. You wanna start with a room and then expand yourself in various directions. Fill empty spaces with rooms or walls, make corridors and try to understand for what kind of feeling you're aiming. You might have already an idea about the contents of the dungeon, if so try to follow it. Don't worry about the exact measurements, just go wild.

@@ -3,12 +3,11 @@ layout: post
 title: The Nameless Tale - Episode 0
 ---
 
-
 Hello, and welcome. Thanks for taking the time to read this, I hope you'll find enjoyement in it.
 
-
-
 The Nameless Tale is an experiment, a weird test that might be fun or might be not. It's a writing excercise where most of the actions and the outcome of the story are decided by the whims of the dice. There is no predetermined path, no giant plot and no immortal characters. It's kind of a solo roleplay game where I transform into text everything that happens and try to make it fun for you to read. All the rolls will be public and, since they can't be live for obvious reasons, you'll have to trust me about them. 
+
+<!--more--> 
 
 The Nameless Tale gets its name from the type of the story I'm going to write: an unknown one. It seems almost like a condraddiction but the emergent narrative of roleplaying games allows for the story to develop naturally, and I hope that it's something that will happen. I'll be using a slightly homebrewed version of B/X D&D because it's the edition I like the most, hence you'll probably see many of the OSR tropes in the game. Random encounters, deadly environments and a low fantasy world. 
 

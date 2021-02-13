@@ -5,7 +5,9 @@ title: The Nameless Tale - Episode 1 - One Step At A Time
 
 ![Header](https://i.imgur.com/VUjXVxp.png)
 
-The air was tense. It was cold. Opening the eyes hurt a lot but Nicholas did it anyways. He was shivering as he didn't have any clothes on. The first thing he saw when his eyes adapted to the darkness was a small cell, made of dark stones, forming a mosaic on the walls, one that he followed with his sight until he managed to glimpse an opening of sorts a couple of feet from him. His breath was coming out and instantly condensing and his whole body was aching. He tried getting up and fell, then he fell again. Third time's the charm they say. 
+The air was tense. It was cold. Opening the eyes hurt a lot but Nicholas did it anyways. He was shivering as he didn't have any clothes on. The first thing he saw when his eyes adapted to the darkness was a small cell, made of dark stones, forming a mosaic on the walls, one that he followed with his sight until he managed to glimpse an opening of sorts a couple of feet from him. His breath was coming out and instantly condensing and his whole body was aching. He tried getting up and fell, then he fell again. Third time's the charm they say.
+
+<!--more-->  
 
 Nicholas slowly moved towards the opening, careful not to step on anything. He was skinny, not too high and not too buffed, yet with visible muscles. He passed a hand over his bald head touching it from behind. It hurt. "Where am I?" he asked himself, unsure if he could actually remember the last thing he did before passing out. His only memory was his name, Nicholas, and a name of a place, a town maybe: *"Lorn"*.
 

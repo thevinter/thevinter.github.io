@@ -6,6 +6,8 @@ A month or so ago I started a Barrowmaze campaign with some of my players. I nev
 
 The characters are Gaspàrd, an harlequin thief and Morcar, a cleric of St. Ygg (actually he's dead now but I'm getting ahead of myself). The intro was simple: the harlequin needed some fun and interesting tales to tell the king and the cleric had to learn the history of the maze. They arrived into Helix and started exploring the place. I decided to cut down most of the ambience and lore of the town keeping just some of the named characters. There's supposed to be some sort of espionage going on from the baddies and such, but it felt convoluted so I just ignored that part, my players will probably never care. After doing the basic shopping they hired a guide at the local tavern and marched to the Barrowmaze. For the first sessions I skipped the other barrows completely as to not overwhelm them (also I felt like a hexcrawl on such a small scale wouldn't really work that well). I still made a map since the one in the book gives too much away!
 
+<!--more--> 
+
 ![Map](https://i.imgur.com/aA81KFe.png)
 
 The first few delves were with Othar (actually the cleric of the village but I forgot the names so he became a mercenary instead). Gaspàrd and Morcar are both experienced players (albeit new to the OSR scene) so they didn't do too much dumb stuff. They almost died to the zombies in area 20 and had to retreat on their first trip. On the subsequent ones they explored the areas 1 to 20 without too much exciting stuff happening. They replaced Othar with a new hireling called Old Yeller (who heroically died against a spider because of a room restock) and explored the areas from 20 to 28 with him. 
