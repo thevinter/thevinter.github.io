@@ -6,6 +6,8 @@ Yesterday one of my players asked me "How are we supposed to make progress if we
 
 And that's a valid question. The simple answer? Don't die.
 
+<!--more--> 
+
 It might seem a dumb answer at first, but really that's all there is. Death is a core mechanic in the game, moreso than in newer editions of D&D because it's real, it's scary and it can come quickly if you're not careful. I noticed that after the first few levels deaths are almost never unfair (except for some Save or Die traps) and always come because the PCs made some poor decisions along the way.
 
 Dungeons And Dragons, in this sense, is like the father of Roguelike games. Take "The Binding Of Isaac" for instance, where 90% of your progress is based on you getting better at the game. You unlock some new items and get knowledge about bosses and rooms along the way, but when you die, you're dead. It might be a bit frustrating at first but it's what makes the game fun!

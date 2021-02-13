@@ -7,6 +7,8 @@ title: The Many Deaths Of The Barrowmaze - Part 4
 
 Thelonius, Cavell, Glirk and Cordoon were almost doomed with no way to escape that rathole they were in. It looked like their chances were very slim, so it really surprised me when they decided to form a wall with their shields and run out of the corridor. After jumping the pit and running trough the door they find themselves surrounded by 6 Huecuvas, they roll for surprise and roll a 1, the Huecuvas are surprised. Then, Thelonius casts Turn Undead and rolls a 12, even with the modified Turn Undead table that's enough to make 2d6 HD of Undead run in fear, and again they get lucky with 4 out of 6 skeletons running away. 
 
+<!--more--> 
+
 Thelonius tells the others to run, trying to give them some more time by staying and fighting. They enemies miss four times in a row and afterwards he decides it's not worth to stay and jumps as well across the pit in a not so heroic escape. What matters is that they survived, incredible. 
 
 They retreat to Helix and spend the night there, just to plunge into the depths of the maze again the following day. This time they go north-east and explore areas 58-63-64. After not finding anything except for the two tablets in area Q3 they decide to destroy the locked doors on the west side.

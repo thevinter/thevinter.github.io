@@ -11,6 +11,7 @@ description:         'An OSR trove od bad ideas'
 url:                 https://thevinter.github.io
 baseurl:             ''
 paginate:            5
+excerpt_separator: <!--more--> 
 
 # About/contact
 author:

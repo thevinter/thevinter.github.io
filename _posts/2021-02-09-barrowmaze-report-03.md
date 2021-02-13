@@ -6,6 +6,8 @@ title: The Many Deaths Of The Barrowmaze - Episode 3
 
 My players, in the last sessions, kept making the worst decisions possible basically cancelling all the good ones they made before. I'm kinda playing an open table so a dwarf named Glirk came along today. Thelonius and Cavell also developed their backstory: Cavell helped Thelonius' mother to abort his twin, ultimately saving his life (gross!).
 
+<!--more--> 
+
 They reached the Barrows and well, the session was uneventful until the very end. They went to Area 39 and decided to destroy the Bricked Wall. Then, Cavell used his pole to check for traps (I'm amazed at how they keep actually using the pole only when there are traps, talk about gamer sense huh) and found the pit in the corridor. After doing so they became convinced they wanted to search all of the 170 alcoves in the room. After a fight with the gray ooze where no one got hit because they kept kiting it they started examinating the tombs more carefully and spent the next 40 minutes investigating. 
 
 ![Thelonius](https://i.imgur.com/9aCN4za.png)

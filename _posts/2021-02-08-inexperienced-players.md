@@ -4,6 +4,8 @@ title: Running Tomb Of The Dragon's Heart With Inexperienced Players
 ---
 I'm running multiple groups and recently I started a small adventure with some players with little to no experience (one of them never played a ttrpg before!) and so far it went pretty good. I'm running [Tomb Of The Dragon's Heart](https://www.drivethrurpg.com/product/216364/Tomb-of-the-Dragons-Heart) with my own homebrew system that is made specifically for new players. As usual, if you're one of the players, don't read the spoiler sections!
 
+<!--more--> 
+
 I started them in Helix since I'm running the other campaign as well and put the dungeon in some mountains nearby. The characters are Atram (a sturdy dwarf), Oli (a small halfling) and Waruga (a cleric). Atram is the one that never played and therefore still inexperienced and shy with roleplaying but, in general, I noticed a certain resistance with this group (as it probably is with many new players) when it comes to taking decisions.
 
 We glossed over the intro, I explained to them the backstory of the place and told them that Atram has been tasked with discovering what happened in the Tomb and that there are riches to be found and glory to be gained. Despite the constant silent moments the group managed to progress a bit into the dungeon, with Waruga taking the lead most of the time since he's the one that played the most. 
