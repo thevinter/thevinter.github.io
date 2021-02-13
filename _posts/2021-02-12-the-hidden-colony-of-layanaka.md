@@ -146,7 +146,7 @@ Those are supposed to be some sorts of living quarters for the prisoners. As usu
 
 **40** - A table with a hundred black skulls laid on it. If even one of the skulls is touched the PC that touched will hear a maniacal laughter in their head.
 
-**41** - A **Blue Serpent** *(AC7/2HD/18THAC0/80'/1xBite 1d6 Save Vs Poison or become sick after 1d4 hours. Anyone sick will vomit blue blood for 3 days)* dwells in the ruins. It's blue, almost ethereal. He will not attack any creature infested with parasites. If dead he'll become mist and dissolve. Add him to the Random Encounters table. The secret room contains a Scroll of Stone To Flesh and a crystal pitcher (3000g, 50% chance of breaking every time the owner takes damage)
+**41** - A **Blue Serpent** *(AC7/2HD/18THAC0/80'/1xBite 1d6 Save Vs Poison or become sick after 1d4 hours. Anyone sick will vomit blue blood for 3 days)* dwells in the ruins. It's blue, almost ethereal. He will not attack any creature infested with parasites. If dead he'll become mist and dissolve. Replace the Whirling Mists with him in the Random Encounters table. The secret room contains a Scroll of Stone To Flesh and a crystal pitcher (3000g, 50% chance of breaking every time the owner takes damage)
 
 **42** - This room contains a scene similar to area 40, except this time the table is full of red bones. If one of the bones is touched they will all vibrate and slowly fall to the floor one by one.
 
