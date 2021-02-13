@@ -17,16 +17,16 @@
 .gpgc-color-theme .gpgc-tab,
 .gpgc-color-theme .gpgc-tab .selected,
 .gpgc-color-theme .gpgc-new-comment-form-textarea {
-  border: solid 1px #90a959;
+  border: solid 1px #9d89b7;
 }
 
 .gpgc-color-theme .gpgc-large-secondary-button {
-  color: #90a959;
+  color: #9d89b7;
 }
 
 .gpgc-color-theme .gpgc-normal-primary-button,
 .gpgc-color-theme .gpgc-tab {
-  background-color: #90a959;
+  background-color: #9d89b7;
 }
 
 /*
@@ -120,7 +120,7 @@
 
 .gpgc-comment {
   margin-top: .8rem;
-  background-color: #FFF;
+  background-color: #3a3a3a;
   border: solid 1px #FFF;
           border-radius: 0px 0px 24px 24px;
   -webkit-border-radius: 0px 0px 24px 24px;
@@ -166,11 +166,11 @@
 
 .gpgc-tab {
   margin-left: -5px;
-  color: #fff;
+  color: #3a3a3a;
 }
 
 .gpgc-tab.selected {
-  background-color: #fff;
+  background-color: #3a3a3a;
   color: inherit;
   cursor: auto;
 }
@@ -194,7 +194,7 @@
 }
 
 .gpgc-normal-primary-button strong {
- color: #fff;
+ color: #3a3a3a;
  }
 
 button:disabled {
