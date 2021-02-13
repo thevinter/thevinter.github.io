@@ -248,7 +248,7 @@ th {
 }
 tbody tr:nth-child(odd) td,
 tbody tr:nth-child(odd) th {
-  background-color: 303030;
+  background-color: #595959;
 }
 
 
@@ -308,10 +308,10 @@ tbody tr:nth-child(odd) th {
 .masthead-title {
   margin-top: 0;
   margin-bottom: 0;
-  color: #505050;
+  color: #a58bba;
 }
 .masthead-title a {
-  color: #505050;
+  color: #a58bba;
 }
 .masthead-title small {
   font-size: 75%;
