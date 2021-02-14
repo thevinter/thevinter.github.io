@@ -3,7 +3,7 @@ layout: post
 title: The Hidden Colony Of Layanaka - Dungeon
 ---
 
-![Map](/images/map/finished.png)
+![Map](/images/map/art_map.png)
 
 # Backstory
 The hidden colony was actually a colony of refugees from the nearby city prison of St.Barbara. The city was pillaged by pirates to free one of their leaders and the other prisoners managed to escape via small boats once the main walls were destroyed. This meant that around 200 prisoners, both men and women found themselves in perilous waters for 2 days before finally reaching the island of Layanaka. Knowing that they would be chased the prisoners started excavating a hidden town inside one of the mountains, hoping that one day their crimes and their faces would be forgotten. Sadly that never happened. After only a few months one of the women discovered a purple plant that had relaxing properties: people would be able to forget about their troubles and live a less stressful life in the colony. In less than a month everyone was consuming this plant on a daily basis. Then tragedy struck: little was known to them is that the plant had small parasites feasting on its leaves, parasites that got ingested during the meals and slowly started to grow until, one day, they started leaving the bodies of its inhabitants, dismembering them from the inside and taking ownership over the colony. 
