@@ -55,7 +55,7 @@ h1, h2, h3, h4, h5, h6 {
 .tooltip {
   position: relative;
   display: inline-block;
-  border-bottom: 1px dotted black; /* If you want dots under the hoverable text */
+  border-bottom: 1px dotted white; /* If you want dots under the hoverable text */
 }
 
 
