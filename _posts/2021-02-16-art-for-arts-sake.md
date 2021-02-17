@@ -10,7 +10,7 @@ I know that I'll keep rambling on this pages until I get bored and I'll keep mak
 
 In all honesty? I'm not sure about how to feel about "Art for Art's sake". 
 
-I released a dungeon by the way: https://www.drivethrurpg.com/product/347216/The-Hidden-Colony-Of-Layanaka
+I released a dungeon by the way: [[Buy it here]](https://www.drivethrurpg.com/product/347216/The-Hidden-Colony-Of-Layanaka)
 
 It's the same shit you've seen in the previous blog posts but now it has mediocre art and you can pay me. Just DM me if you want a copy for free. After all, knowing that someone had fun while playing trough my stuff is better than 4 bucks.
 
