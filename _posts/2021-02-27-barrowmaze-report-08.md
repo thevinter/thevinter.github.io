@@ -21,7 +21,7 @@ Helix, heal, sleep, Barrowmaze. Only one door was left, the most dangerous one. 
 
 Inside of it there's an adventurer with a raised hand. He's actually consumed by a Gelatinous Cube that appears invisible to anyone not close enough. After some discussion the group decided to use a rope to bring the body closer, but the rope got stuck into the cube and aggroed the creature. Thelonius got sucked inside the thing but the rest managed to pull him out, then Cavell suffered the same fate. Everything foreshadowed a TPK, especially since Thelonius and Cavell were very slow. Luckily they were both only a Shield away from having 90' of movement. They dropped it and escaped from the maze, encountering some giant rats on the way (Indifferent on the reaction roll) with nothing of value lost. 
 
-This whole session kinda demotivated the group, also Barrowmaze was starting to wear them off a bit. Luckily [I hae a giant map of my world](https://leveldrain.com/2021/02/09/dont-be-afrad-to-leave/) and this means they can go wherever. Probably **Archaia** or **Deep Carbon Observatory**. Stay tuned for future updates!
+This whole session kinda demotivated the group, also Barrowmaze was starting to wear them off a bit. Luckily [I hae a giant map of my world](https://leveldrain.com/2021/02/09/dont-be-afrad-to-leave/) and this means they can go wherever. Probably **Archaia** or **Deep Carbon Observatory**. Stay tuned for future updates! I should probably find a new title for the play report ;)
 
 Here's the full map of the part they explored in these 15ish sessions
 
