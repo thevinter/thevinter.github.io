@@ -35,7 +35,7 @@ Nicholas hesitated for a few instants but then realized he had no other choice a
 
 
 <button title="Click to show/hide content" type="button" onclick="if(document.getElementById('spoiler') .style.display=='none') {document.getElementById('spoiler') .style.display=''}else{document.getElementById('spoiler') .style.display='none'}">Spoiler</button>
-<div id="spoiler" style="display:none; background: #f9f9f9;
+<div id="spoiler" style="display:none; background: #4a4a4a;
   border-left: 10px solid #ccc;
   margin: 1.5em 10px;
   padding: 0.5em 10px;">

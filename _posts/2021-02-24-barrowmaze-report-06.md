@@ -14,7 +14,7 @@ The party is composed, if you recall, of a Cleric, a Dwarf and a Fighter. They a
 After doing whatever they wanted to do they returned to the Barrowmaze once more. Ignoring once again all of the small cripts outside they went straight to the place where Morcar died to the skeletons (Area 42). They opened some doors and met Grr’Woof-nub (I sadly didn't have enough time to roleplay him decently), fought some zombies and reached Area 43 with no incidents. 
 
 <button title="Click to show/hide content" type="button" onclick="if(document.getElementById('spoiler') .style.display=='none') {document.getElementById('spoiler') .style.display=''}else{document.getElementById('spoiler') .style.display='none'}">Spoiler</button>
-<div id="spoiler" style="display:none; background: #f9f9f9;
+<div id="spoiler" style="display:none; background: #4a4a4a;
   border-left: 10px solid #ccc;
   margin: 1.5em 10px;
   padding: 0.5em 10px;">
