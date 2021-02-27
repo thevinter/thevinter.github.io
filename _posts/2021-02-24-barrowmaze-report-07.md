@@ -3,7 +3,9 @@ layout: post
 title: The Many Deaths Of The Barrowmaze - Episode 7
 ---
 
-A new challenger approaches! Basyli is a Magic-User played by a new player. He had his share of 5e over the years but it's his first time playing OSR, we'll see how it goes (especially since he has 8 CON and 8 INT). The party found him in one of the pits scattered across the dungeon.
+A new challenger approaches! Basyli is a Magic-User played by a new player. He had his share of 5e over the years but it's his first time playing OSR, we'll see how it goes (especially since he has 8 CON and 8 INT). The party found him in one of the pits scattered across the dungeon and now he joined the A-Team.
+
+![Herbert](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FRaOKu_ErHsY%2Fmaxresdefault.jpg&f=1&nofb=1)
 
 <!--more-->
 
