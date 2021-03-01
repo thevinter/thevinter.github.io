@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Welcome To My World
+title: Play Reports Of My Campaigns
 ---
 
-# Play Reports Of My Campaigns
+# Welcome To My World
 
 I play a lot of shit, sometimes it's more campaigns at once that usually die, sometimes I play with my stable group. Here are the reports of pretty much all of the sessions I played since I started writing OSR stuff.
 
