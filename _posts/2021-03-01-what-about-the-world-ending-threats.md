@@ -16,4 +16,4 @@ World ending threats, ancient artifacts, weird weapons. It's a game, it should b
 
 Go crazy, go wild. Have giants dormant under the biggest cities in the world with a chain keeping them all locked. Have a temple built upon that chain. Have ancient relics from the past, mind reading cats, alien fuckery, floods, desperation, death. Taking inspiration from Numenera don't be afraid to give your players single use artifacts with destructive powers. Just take the d&d canon and twist it, jump over it, shape and mutate it. If you have crazy stuff going on in your dungeons your players will go from "oh... great... another kobold room but at least we got XP" to "who the fuck cares about XP I just wanna know what will happen if I pour this thing in this other ancient thing". And if they die and cause a giant chain reaction that ends the world, make it fun (just don't make it too often).
 
-(Art by [Scrap Princess](monstermanualsewnfrompants.blogspot.com))
+*(Art by [Scrap Princess](monstermanualsewnfrompants.blogspot.com))*
