@@ -1,13 +1,16 @@
 ---
 layout: page
-title: Comprehensive Dungeons & Dragons Guide
+title: Comprehensive Dungeons & Dragons 5E Guide
 ---
 
 ![Header](/images/header_xan.jpg)
 
 # A Brief Introduction
 
-This is intended to be a comprehensive guide to all Dungeons & Dragons players, and mostly new Dungeon Masters. It contains lots of questions I've seen during my years of DMing, and other stuff that comes from my experience as a player. I really hope you find it useful.
+This is intended to be a comprehensive guide to all 5E Dungeons & Dragons players, and mostly new Dungeon Masters. It contains lots of questions I've seen during my years of DMing, and other stuff that comes from my experience as a player. I really hope you find it useful.
+
+### Post Scriptum
+I don't play 5th edition anymore as I find it not suiting the style of gameplay I like. This guide is kept for posterity and for utility purposes but I strongly recommend you reading my [OSR primer](https://leveldrain.com/vinter-osr-primer/) and trying a game of B/X 
 
 ### Summary:
 
