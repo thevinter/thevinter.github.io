@@ -17,6 +17,7 @@ I play a lot of shit, sometimes it's more campaigns at once that usually die, so
 - [7 - Barrowmaze](https://leveldrain.com/2021/02/26/barrowmaze-report-07/)
 - [8 - Barrowmaze](https://leveldrain.com/2021/02/27/barrowmaze-report-08/)
 - [9 - Deep Carbon Observatory](https://leveldrain.com/2021/03/03/dco-report-09/)
+- [10 - Deep Carbon Observatory](https://leveldrain.com/2021/03/04/dco-report-10/)
 
 ## Random Groups 
 - [Tomb Of The Dragon Heart](https://leveldrain.com/2021/02/08/inexperienced-players/)
