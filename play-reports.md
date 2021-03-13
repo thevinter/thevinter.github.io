@@ -20,6 +20,7 @@ I play a lot of shit, sometimes it's more campaigns at once that usually die, so
 - [10 - Deep Carbon Observatory](https://leveldrain.com/2021/03/04/dco-report-10/)
 - [11 - Deep Carbon Observatory](https://leveldrain.com/2021/03/06/dco-report-11/)
 - [12 - Deep Carbon Observatory](https://leveldrain.com/2021/03/09/dco-report-12/)
+- [13 - Deep Carbon Observatory](https://leveldrain.com/2021/03/12/dco-report-13/)
 
 ## Random Groups 
 - [Tomb Of The Dragon Heart](https://leveldrain.com/2021/02/08/inexperienced-players/)
