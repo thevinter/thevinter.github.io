@@ -30,4 +30,4 @@ Roll | The character...
 
 **Area 22** - This area is beautiful and lush. Plants accustomed to grow in the dark live amidst the fountains that spring from all directions. Plants here are the one needed to create the things mentioned in the library in Area 23. There are Mare Tensias, black flowers that dissolve into fog when touched; Ve-Rel-Roses, white and yellow flowers that can levitate their bulbs; Teneva Religiosa, a giant water-lily-like striated blue plant that emits a sound akin to a scream whenever someone touches it and Rat Orchids: flowers that die every night just to be reborn on the following morning.
 
-Area 23 - As before, this room is key to completing the dungeon and as such will be explained later
+**Area 23** - As before, this room is key to completing the dungeon and as such will be explained later
