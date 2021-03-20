@@ -69,7 +69,7 @@ Roll | Monster | Roll | Monster
 ## Beginning the Adventure
 Your players are in the woods, foraging and hunting. They find some mushrooms and they eat them, what could go wrong? Then the entire forest starts burning, it's not actually burning but they don't know that. Time to run!
 
-The rest of the adventure is structured as a point crawl. Roll 1d6 between every location. Random encounters on 1 or 2. 
+The rest of the adventure is structured as a point crawl. Roll 1d6 between every location. Random encounters on 1 or 2. Yes, it's railroady. Sorry.
 
 Roll | Monster 
 ---- | ------- 
