@@ -1,6 +1,6 @@
 ---
 layout: post
-title; The Tower Of The Stargazer (1/2)
+title: The Tower Of The Stargazer (1/2)
 ---
 
 Have been waiting huh? Yes it's been a long while, but when my most read content is still the Curse Of Strahd guide I don't feel that motivated. Also things happened, work started, personal life. But here we are, back again, this time with a Tower Of The Stargazer oneshot.
