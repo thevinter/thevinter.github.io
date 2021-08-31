@@ -9,7 +9,7 @@ Have been waiting huh? Yes it's been a long while, but when my most read content
 
 <!--more-->
 
-This is not a review, merely a play report of a game I did two days ago. It's still not finished (hence part 1 of 2) but there were a lot of cool bits and pieces here and there. Names are not important, characters died and I didn't write them down but there were three players: one from the [Layanaka](https://www.drivethrurpg.com/product/347216/The-Hidden-Colony-Of-Layanaka)game and two from the main [Barrowmaze](https://leveldrain.com/play-reports/) group. They all played halflings so we'll call them  Tarvis, Anras and Sguccio (the latter one is actually a name from the game)
+This is not a review, merely a play report of a game I did two days ago. It's still not finished (hence part 1 of 2) but there were a lot of cool bits and pieces here and there. Names are not important, characters died and I didn't write them down but there were three players: one from the [Layanaka](https://www.drivethrurpg.com/product/347216/The-Hidden-Colony-Of-Layanaka) game and two from the main [Barrowmaze](https://leveldrain.com/play-reports/) group. They all played halflings so we'll call them  Tarvis, Anras and Sguccio (the latter one is actually a name from the game)
 
 The adventure started with them hearing about the tower and its riches. They quickly invented a reason for being there, it being a debt to a certain (he will come into play later so remember this name). Anras was the only one intelligent enough to hide his metal things while running towards the tower. Tarvis, on the other hand, wasn't so smart (nor lucky) and got disintegrated by a lightning after rolling a 1. Good start! He got replaced shortly after with Ricos.
 
