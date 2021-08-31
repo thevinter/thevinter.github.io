@@ -339,6 +339,7 @@ a.sidebar-nav-item:focus {
 
 .page,
 .post {
+  text-align: justify;
   margin-bottom: 4em;
 }
 
